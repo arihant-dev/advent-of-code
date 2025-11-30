@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails, resource forks, and Icon files
+Icon
+
+# Windows
+Thumbs.db
+
+# Go build outputs
+/bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.test.exe
+
+# Go package objects
+/pkg/
+
+# Vendor (optional - include if you don't commit your vendor folder)
+vendor/
+
+# Build artifacts
+_build/
+
+# Go workspace
+go.work
+
+# Coverage and profiles
+*.coverprofile
+
+# Editor directories
+.vscode/
+.idea/
+*.iml
+
+# JetBrains
+*.iws
+
+# Inputs (do not commit personal puzzle inputs)
+**/input.txt
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
