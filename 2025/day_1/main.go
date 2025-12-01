@@ -23,7 +23,9 @@ func main() {
 
 	// starting point is 50
 	start := 50
-	count := 0
+	endpointCount := 0 // number of times position equals 0 after a rotation
+	passCount := 0     // number of times 0 was reached during rotations (including passing through and landing)
+
 	for _, line := range rawLines {
 		line = strings.TrimSpace(line)
 		if line == "" {
@@ -36,25 +38,43 @@ func main() {
 			panic(err)
 		}
 
+		prev := start
+		occurrences := 0
+
 		switch dir {
 		case 'R':
-			prev := start
-			start = (start + num) % 100
-			fmt.Fprintf(out, "R%d: %d -> %d\n", num, prev, start)
+			// steps until next 0 when moving right
+			occurrences = (prev + num) / 100
+			start = (prev + num) % 100
+			fmt.Fprintf(out, "R%d: %d -> %d (passed 0 %d times)\n", num, prev, start, occurrences)
 		case 'L':
-			prev := start
-			start = (start - num) % 100
+			// steps until next 0 when moving left
+			// smallest positive step to hit 0 when moving left is t0 = prev (if prev>0) else 100
+			t0 := prev
+			if t0 == 0 {
+				t0 = 100
+			}
+			if num >= t0 {
+				occurrences = 1 + (num-t0)/100
+			} else {
+				occurrences = 0
+			}
+			start = (prev - num) % 100
 			if start < 0 {
 				start += 100
 			}
-			fmt.Fprintf(out, "L%d: %d -> %d\n", num, prev, start)
+			fmt.Fprintf(out, "L%d: %d -> %d (passed 0 %d times)\n", num, prev, start, occurrences)
 		default:
-			fmt.Fprintf(out, "unknown direction")
+			fmt.Fprintf(out, "skipping: %q\n", line)
+			continue
 		}
 
+		passCount += occurrences
 		if start == 0 {
-			count++
+			endpointCount++
 		}
 	}
-	fmt.Fprintln(out, count)
+
+	fmt.Fprintf(out, "\nTotal times passed through 0 during moves: %d\n", passCount)
+	fmt.Fprintf(out, "Total times ended at 0 after a move: %d\n", endpointCount)
 }
