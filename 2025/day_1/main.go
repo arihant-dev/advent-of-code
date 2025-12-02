@@ -18,6 +18,7 @@ func main() {
 	}
 	defer out.Close()
 
+	// Normalize the line endings and split into lines
 	content := strings.ReplaceAll(string(f), "\r\n", "\n")
 	rawLines := strings.Split(content, "\n")
 
