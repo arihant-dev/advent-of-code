@@ -41,18 +41,32 @@ func main() {
 		if err != nil {
 			panic(err)
 		}
+		// an ID is invalid if it is made only of some sequence of digits repeated at least twice
 
 		for i := startInt; i <= endInt; i++ {
 			s := strconv.Itoa(i)
 			n := len(s)
-			// only consider even-length numbers where first half equals second half
-			if n%2 != 0 {
-				continue
+			valid := false
+			for l := 1; l <= n/2; l++ {
+				if n%l != 0 {
+					continue
+				}
+				substr := s[0:l]
+				repeated := true
+				for j := l; j < n; j += l {
+					if s[j:j+l] != substr {
+						repeated = false
+						break
+					}
+				}
+				if repeated {
+					valid = true
+					break
+				}
 			}
-			half := n / 2
-			if s[:half] == s[half:] {
+			if valid {
+				fmt.Fprintf(out, "Valid ID: %d\n", i)
 				sum += i
-				fmt.Fprintln(out, s)
 			}
 		}
 	}
