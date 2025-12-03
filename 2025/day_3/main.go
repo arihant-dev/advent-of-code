@@ -18,18 +18,19 @@ func main() {
 	}
 	defer out.Close()
 	// read each line as array of integers
-	arrayOfBanks := [][]int{}
-	lines := strings.Split(strings.ReplaceAll(string(f), "\r\n", "\n"), "\n")
-	for _, line := range lines {
+	arrayOfBanks := [][]int64{}
+	// normalize newlines and split into lines
+	lines := strings.SplitSeq(strings.ReplaceAll(string(f), "\r\n", "\n"), "\n")
+	for line := range lines {
 		line = strings.TrimSpace(line)
 		if line == "" {
 			continue
 		}
-		// nums are 1-9 seperated by nothing
+		// nums are 1-9 separated by nothing
 		bankStrs := strings.Split(line, "")
-		bank := []int{}
+		bank := []int64{}
 		for _, bs := range bankStrs {
-			num, err := strconv.Atoi(bs)
+			num, err := strconv.ParseInt(bs, 10, 64)
 			if err != nil {
 				panic(err)
 			}
@@ -37,15 +38,32 @@ func main() {
 		}
 		arrayOfBanks = append(arrayOfBanks, bank)
 	}
-	sumOfMaxBatteries := 0
+	sumOfMaxBatteries := int64(0)
 	for _, bank := range arrayOfBanks {
-		maxBattery := 0
-		for i := range bank {
-			for j := i + 1; j < len(bank); j++ {
-				if bank[i]*10+bank[j] > maxBattery {
-					maxBattery = bank[i]*10 + bank[j]
+		if len(bank) == 0 {
+			continue
+		}
+		// Choose up to 12 digits from the bank (preserving order) to form the largest possible number.
+		k := min(len(bank), 12)
+		pos := 0
+		var maxBattery int64 = 0
+		for i := 0; i < k; i++ {
+			// end index (inclusive) for this selection
+			end := len(bank) - (k - i)
+			if end < pos {
+				end = pos
+			}
+			// find max digit in bank[pos..end]
+			best := bank[pos]
+			bestIdx := pos
+			for j := pos; j <= end; j++ {
+				if bank[j] > best {
+					best = bank[j]
+					bestIdx = j
 				}
 			}
+			maxBattery = maxBattery*10 + best
+			pos = bestIdx + 1
 		}
 		fmt.Fprintf(out, "Max battery: %d from bank %v\n", maxBattery, bank)
 		sumOfMaxBatteries += maxBattery
