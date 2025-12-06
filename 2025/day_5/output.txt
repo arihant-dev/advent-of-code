@@ -1,0 +1,2191 @@
+Processing line: 263168346238540-263700364947153
+Processing line: 14374432572227-15942816853763
+Processing line: 444767118084396-445413354731974
+Processing line: 247126812639132-248420389418468
+Processing line: 326329682353762-328601496709403
+Processing line: 364481457730905-367799628277847
+Processing line: 377256546542482-378993461547546
+Processing line: 293867005330825-294428761265989
+Processing line: 456033232112107-458983473126516
+Processing line: 450514068900891-450943485425769
+Processing line: 246151842163869-247565799348908
+Processing line: 184881653990251-184881653990251
+Processing line: 486593626888462-490529297984630
+Processing line: 294227845864198-294428761265989
+Processing line: 247980960252518-249180000918736
+Processing line: 556499916475446-559967746145100
+Processing line: 264446690298180-265035549934213
+Processing line: 173434048218886-176593323769424
+Processing line: 242477836869796-243904445932569
+Processing line: 354055488970034-358114324581832
+Processing line: 10273568115408-11798678575842
+Processing line: 485243772273055-486593626888461
+Processing line: 329197264593470-331163358127217
+Processing line: 547115260223184-551547690367943
+Processing line: 248840160638134-250328983779738
+Processing line: 503750292709254-510174726620200
+Processing line: 433852309806970-433852309806970
+Processing line: 448127046176675-448975285630697
+Processing line: 474311407170067-479508358475402
+Processing line: 273128414401138-278479251779266
+Processing line: 157063634360641-159158066276533
+Processing line: 104684310630372-106293346985284
+Processing line: 44681703698176-49261415274180
+Processing line: 429584695436126-429584695436126
+Processing line: 24685283337904-27164005012642
+Processing line: 261955285774065-262237480363045
+Processing line: 213247771749914-216349549808872
+Processing line: 12189968496901-13877527329350
+Processing line: 52916004229048-55086543037179
+Processing line: 297376320840979-297885419603241
+Processing line: 396891686908569-400965827868635
+Processing line: 299165771630387-299595581542483
+Processing line: 299165771630387-299595581542483
+Processing line: 403888645341594-411238002909769
+Processing line: 249653015530141-250970521766494
+Processing line: 61302414393213-61302414393213
+Processing line: 131913246737432-132162589358235
+Processing line: 234084394463568-239433882936544
+Processing line: 537072624643563-540969541207158
+Processing line: 302301318096456-302301318096456
+Processing line: 293867005330825-294428761265989
+Processing line: 384994935427579-390327234505145
+Processing line: 475526616378742-481505288543173
+Processing line: 11275072135416-12987205667862
+Processing line: 39295087500042-39295087500042
+Processing line: 324977184774795-327249726367727
+Processing line: 40972195641738-45625896759529
+Processing line: 426076152584087-429584695436126
+Processing line: 323699124110322-325845993604049
+Processing line: 285168404602949-288298831217022
+Processing line: 296525967594133-296657209670029
+Processing line: 136598892652123-136805776099267
+Processing line: 266248531058583-266844080292765
+Processing line: 364481457730905-370913109071984
+Processing line: 134603716423415-135181574378725
+Processing line: 298118367150221-298740149527198
+Processing line: 184881653990252-189554908236260
+Processing line: 467245802000431-469956517691241
+Processing line: 266080635215193-266492659834803
+Processing line: 173434048218886-173434048218886
+Processing line: 16514713263291-17803392973314
+Processing line: 322289447809954-324456339668851
+Processing line: 446247717751849-446803902899030
+Processing line: 335713563802929-340203284791169
+Processing line: 21781225937381-29258223436636
+Processing line: 112803099155787-119981015088069
+Processing line: 442994005326623-443116750596864
+Processing line: 126690804382176-129335106229809
+Processing line: 255068622017297-258642005932131
+Processing line: 267256451222171-267610397148137
+Processing line: 153427116525759-157063634360640
+Processing line: 265447179971093-265794323231323
+Processing line: 136171911359415-136284979554579
+Processing line: 444230963251084-444767118084396
+Processing line: 457961090413777-460462930224585
+Processing line: 267876362368009-268517382213892
+Processing line: 13495362478991-14769569942797
+Processing line: 213247771749914-220146454100049
+Processing line: 524235238645566-530928743284951
+Processing line: 297269760080766-297646622584753
+Processing line: 138291241669343-138689522277254
+Processing line: 313141927750793-313141927750793
+Processing line: 236840379608156-239433882936544
+Processing line: 443507857187033-444230963251084
+Processing line: 261567205556924-261955285774065
+Processing line: 112803099155787-116430385712237
+Processing line: 292077867124166-292843638867831
+Processing line: 94249881946574-94249881946574
+Processing line: 295260332055346-295896902614949
+Processing line: 302301318096457-309624225302750
+Processing line: 243412441079415-244719729400804
+Processing line: 193726606209024-197728913585627
+Processing line: 138291241669343-138885050167513
+Processing line: 297269760080766-297885419603241
+Processing line: 293586077329871-294428761265989
+Processing line: 297269760080766-297646622584753
+Processing line: 448010106620029-448127046176675
+Processing line: 33477505999387-39295087500041
+Processing line: 452839142947381-455078642568645
+Processing line: 313141927750793-320449090840424
+Processing line: 262543383815431-262991498117234
+Processing line: 297885419603241-298437817853172
+Processing line: 269819238100134-270619846671955
+Processing line: 293867005330825-294227845864198
+Processing line: 534206573772029-540969541207158
+Processing line: 393940430436194-396891686908567
+Processing line: 262543383815431-262991498117234
+Processing line: 193726606209024-197728913585627
+Processing line: 61302414393213-69275455774865
+Processing line: 288298831217022-288298831217022
+Processing line: 451167577334107-451918262306207
+Processing line: 262991498117234-263168346238540
+Processing line: 253277800770893-255068622017295
+Processing line: 204664449620463-206631691504263
+Processing line: 519470678694652-519470678694652
+Processing line: 547115260223183-547115260223183
+Processing line: 134293283695461-134603716423415
+Processing line: 15206000912529-16839544460703
+Processing line: 94249881946575-97615619903078
+Processing line: 515102517291097-519470678694651
+Processing line: 17252271784296-18737214376979
+Processing line: 132162589358235-132646840723563
+Processing line: 268189226284664-268806827275777
+Processing line: 75494743728509-79457931433793
+Processing line: 415873256373862-419238108817987
+Processing line: 340203284791170-340203284791170
+Processing line: 269053329683668-269247187108161
+Processing line: 241426906899440-242681229365053
+Processing line: 412814199539345-421144468301340
+Processing line: 135589909985397-136284979554579
+Processing line: 82718855082818-89800754038157
+Processing line: 206631691504264-206631691504264
+Processing line: 459583705186798-461900706707692
+Processing line: 494065427915281-500727006726667
+Processing line: 269819238100134-270026823609437
+Processing line: 6715571317301-6715571317301
+Processing line: 18177699319038-20008313111525
+Processing line: 524235238645566-528286388477602
+Processing line: 553518080867259-562119183451075
+Processing line: 463569105893086-467245802000429
+Processing line: 328062645560755-329832103738940
+Processing line: 145001814087353-147951583270002
+Processing line: 296657209670029-297269760080766
+Processing line: 445650206630481-446056165088945
+Processing line: 503750292709254-510174726620200
+Processing line: 55086543037180-57505750681062
+Processing line: 142757234183651-149562462439233
+Processing line: 244999856472354-246382530948209
+Processing line: 446056165088945-446393643588532
+Processing line: 454321079563036-457046528229702
+Processing line: 445650206630481-446393643588532
+Processing line: 263700364947153-264049177236650
+Processing line: 224796601497675-227605396189870
+Processing line: 373003966498695-377256546542481
+Processing line: 292394718109652-292843638867831
+Processing line: 3357360523536-6715571317301
+Processing line: 138002751100010-138885050167513
+Processing line: 138885050167513-139367292099770
+Processing line: 356479945309563-361439893960838
+Processing line: 292756455689948-292843638867831
+Processing line: 134068113713012-134603716423415
+Processing line: 104684310630372-106293346985284
+Processing line: 162839693735071-168058862763658
+Processing line: 268081437944244-268517382213892
+Processing line: 407380936688178-411238002909769
+Processing line: 70787220230645-79457931433793
+Processing line: 122229029233027-126690804382174
+Processing line: 433852309806970-440979078194331
+Processing line: 450943485425769-451765754276994
+Processing line: 384994935427579-390327234505145
+Processing line: 446803902899030-447565153689090
+Processing line: 227605396189870-227605396189870
+Processing line: 342313340036380-350766525784036
+Processing line: 244300712738474-245486561090097
+Processing line: 449448380662817-449726722591385
+Processing line: 261567205556924-261723504813608
+Processing line: 299165771630387-299595581542483
+Processing line: 451167577334107-451918262306207
+Processing line: 276153971684786-279300012526067
+Processing line: 263700364947153-264446690298180
+Processing line: 421159401127030
+Number 421159401127030 is NOT present in fresh batches
+Processing line: 299720024187442
+Number 299720024187442 is NOT present in fresh batches
+Processing line: 515756675785408
+Number 515756675785408 is present in fresh batches
+Processing line: 521520884596847
+Number 521520884596847 is NOT present in fresh batches
+Processing line: 356408238716353
+Number 356408238716353 is present in fresh batches
+Processing line: 186597854548651
+Number 186597854548651 is present in fresh batches
+Processing line: 550584849878053
+Number 550584849878053 is present in fresh batches
+Processing line: 371464276843726
+Number 371464276843726 is NOT present in fresh batches
+Processing line: 12832180550643
+Number 12832180550643 is present in fresh batches
+Processing line: 275689711648179
+Number 275689711648179 is present in fresh batches
+Processing line: 16653262420540
+Number 16653262420540 is present in fresh batches
+Processing line: 202931103394826
+Number 202931103394826 is NOT present in fresh batches
+Processing line: 341257390691964
+Number 341257390691964 is NOT present in fresh batches
+Processing line: 538502255485647
+Number 538502255485647 is present in fresh batches
+Processing line: 28479175096360
+Number 28479175096360 is present in fresh batches
+Processing line: 232364007465043
+Number 232364007465043 is NOT present in fresh batches
+Processing line: 467236897498846
+Number 467236897498846 is present in fresh batches
+Processing line: 173692191928743
+Number 173692191928743 is present in fresh batches
+Processing line: 423004021382568
+Number 423004021382568 is NOT present in fresh batches
+Processing line: 324426275755214
+Number 324426275755214 is present in fresh batches
+Processing line: 498521350451500
+Number 498521350451500 is present in fresh batches
+Processing line: 544272479816867
+Number 544272479816867 is NOT present in fresh batches
+Processing line: 111881902635350
+Number 111881902635350 is NOT present in fresh batches
+Processing line: 443481737310967
+Number 443481737310967 is NOT present in fresh batches
+Processing line: 330088535013739
+Number 330088535013739 is present in fresh batches
+Processing line: 348808237396293
+Number 348808237396293 is present in fresh batches
+Processing line: 437268690684658
+Number 437268690684658 is present in fresh batches
+Processing line: 517668696848057
+Number 517668696848057 is present in fresh batches
+Processing line: 114051460679714
+Number 114051460679714 is present in fresh batches
+Processing line: 159447895468681
+Number 159447895468681 is NOT present in fresh batches
+Processing line: 24424746109856
+Number 24424746109856 is present in fresh batches
+Processing line: 122832739396401
+Number 122832739396401 is present in fresh batches
+Processing line: 478985419316341
+Number 478985419316341 is present in fresh batches
+Processing line: 37953301225870
+Number 37953301225870 is present in fresh batches
+Processing line: 545287781714636
+Number 545287781714636 is NOT present in fresh batches
+Processing line: 534892014086728
+Number 534892014086728 is present in fresh batches
+Processing line: 305039443912812
+Number 305039443912812 is present in fresh batches
+Processing line: 1397784282663
+Number 1397784282663 is NOT present in fresh batches
+Processing line: 549664850797703
+Number 549664850797703 is present in fresh batches
+Processing line: 506356567889029
+Number 506356567889029 is present in fresh batches
+Processing line: 45561135944360
+Number 45561135944360 is present in fresh batches
+Processing line: 240677947898336
+Number 240677947898336 is NOT present in fresh batches
+Processing line: 466413392852746
+Number 466413392852746 is present in fresh batches
+Processing line: 38548097015643
+Number 38548097015643 is present in fresh batches
+Processing line: 174083384352647
+Number 174083384352647 is present in fresh batches
+Processing line: 384203040679115
+Number 384203040679115 is NOT present in fresh batches
+Processing line: 523355709389499
+Number 523355709389499 is NOT present in fresh batches
+Processing line: 402626157651208
+Number 402626157651208 is NOT present in fresh batches
+Processing line: 366113432062984
+Number 366113432062984 is present in fresh batches
+Processing line: 478382410191414
+Number 478382410191414 is present in fresh batches
+Processing line: 288730250633696
+Number 288730250633696 is NOT present in fresh batches
+Processing line: 265709097746248
+Number 265709097746248 is present in fresh batches
+Processing line: 464103262579347
+Number 464103262579347 is present in fresh batches
+Processing line: 560806977317246
+Number 560806977317246 is present in fresh batches
+Processing line: 113879356709123
+Number 113879356709123 is present in fresh batches
+Processing line: 454711871074781
+Number 454711871074781 is present in fresh batches
+Processing line: 162028819713671
+Number 162028819713671 is NOT present in fresh batches
+Processing line: 243097382317686
+Number 243097382317686 is present in fresh batches
+Processing line: 373184342366186
+Number 373184342366186 is present in fresh batches
+Processing line: 363334005176519
+Number 363334005176519 is NOT present in fresh batches
+Processing line: 68465192990506
+Number 68465192990506 is present in fresh batches
+Processing line: 215898531444713
+Number 215898531444713 is present in fresh batches
+Processing line: 323693978160450
+Number 323693978160450 is present in fresh batches
+Processing line: 350457893347061
+Number 350457893347061 is present in fresh batches
+Processing line: 489897596630978
+Number 489897596630978 is present in fresh batches
+Processing line: 147933621428891
+Number 147933621428891 is present in fresh batches
+Processing line: 92849867778830
+Number 92849867778830 is NOT present in fresh batches
+Processing line: 247436797737053
+Number 247436797737053 is present in fresh batches
+Processing line: 542488264469654
+Number 542488264469654 is NOT present in fresh batches
+Processing line: 290314785066217
+Number 290314785066217 is NOT present in fresh batches
+Processing line: 544675779309361
+Number 544675779309361 is NOT present in fresh batches
+Processing line: 74757426285809
+Number 74757426285809 is present in fresh batches
+Processing line: 70180852480154
+Number 70180852480154 is NOT present in fresh batches
+Processing line: 362090771013986
+Number 362090771013986 is NOT present in fresh batches
+Processing line: 333721654823724
+Number 333721654823724 is NOT present in fresh batches
+Processing line: 182797811883867
+Number 182797811883867 is NOT present in fresh batches
+Processing line: 364897298407357
+Number 364897298407357 is present in fresh batches
+Processing line: 290987853695814
+Number 290987853695814 is NOT present in fresh batches
+Processing line: 246882269239321
+Number 246882269239321 is present in fresh batches
+Processing line: 288174120665764
+Number 288174120665764 is present in fresh batches
+Processing line: 231594061080765
+Number 231594061080765 is NOT present in fresh batches
+Processing line: 514284387754049
+Number 514284387754049 is NOT present in fresh batches
+Processing line: 405606273574757
+Number 405606273574757 is present in fresh batches
+Processing line: 145689092986639
+Number 145689092986639 is present in fresh batches
+Processing line: 320398566762373
+Number 320398566762373 is present in fresh batches
+Processing line: 403123525442731
+Number 403123525442731 is NOT present in fresh batches
+Processing line: 426735579521751
+Number 426735579521751 is present in fresh batches
+Processing line: 438816015874536
+Number 438816015874536 is present in fresh batches
+Processing line: 87245484432456
+Number 87245484432456 is present in fresh batches
+Processing line: 141069108639277
+Number 141069108639277 is NOT present in fresh batches
+Processing line: 480840767579543
+Number 480840767579543 is present in fresh batches
+Processing line: 108671301782355
+Number 108671301782355 is NOT present in fresh batches
+Processing line: 286185575006412
+Number 286185575006412 is present in fresh batches
+Processing line: 306791638383471
+Number 306791638383471 is present in fresh batches
+Processing line: 334590972228596
+Number 334590972228596 is NOT present in fresh batches
+Processing line: 222157650916834
+Number 222157650916834 is NOT present in fresh batches
+Processing line: 404367016464286
+Number 404367016464286 is present in fresh batches
+Processing line: 341297302772844
+Number 341297302772844 is NOT present in fresh batches
+Processing line: 298294627323504
+Number 298294627323504 is present in fresh batches
+Processing line: 510081704080277
+Number 510081704080277 is present in fresh batches
+Processing line: 377369604388594
+Number 377369604388594 is present in fresh batches
+Processing line: 317684099061716
+Number 317684099061716 is present in fresh batches
+Processing line: 129456822706394
+Number 129456822706394 is NOT present in fresh batches
+Processing line: 192918524836280
+Number 192918524836280 is NOT present in fresh batches
+Processing line: 334105154167889
+Number 334105154167889 is NOT present in fresh batches
+Processing line: 539757208635738
+Number 539757208635738 is present in fresh batches
+Processing line: 561070620995289
+Number 561070620995289 is present in fresh batches
+Processing line: 68592694998358
+Number 68592694998358 is present in fresh batches
+Processing line: 203487928281447
+Number 203487928281447 is NOT present in fresh batches
+Processing line: 6414491954523
+Number 6414491954523 is present in fresh batches
+Processing line: 208922026117677
+Number 208922026117677 is NOT present in fresh batches
+Processing line: 525471725065939
+Number 525471725065939 is present in fresh batches
+Processing line: 498176491681422
+Number 498176491681422 is present in fresh batches
+Processing line: 341275789802731
+Number 341275789802731 is NOT present in fresh batches
+Processing line: 134398732008036
+Number 134398732008036 is present in fresh batches
+Processing line: 16224585950336
+Number 16224585950336 is present in fresh batches
+Processing line: 89511894401024
+Number 89511894401024 is present in fresh batches
+Processing line: 66028537130226
+Number 66028537130226 is present in fresh batches
+Processing line: 336252201158312
+Number 336252201158312 is present in fresh batches
+Processing line: 233065835003525
+Number 233065835003525 is NOT present in fresh batches
+Processing line: 369843340267088
+Number 369843340267088 is present in fresh batches
+Processing line: 399575090357837
+Number 399575090357837 is present in fresh batches
+Processing line: 487891013943217
+Number 487891013943217 is present in fresh batches
+Processing line: 284420780038855
+Number 284420780038855 is NOT present in fresh batches
+Processing line: 81424101022291
+Number 81424101022291 is NOT present in fresh batches
+Processing line: 336137562442006
+Number 336137562442006 is present in fresh batches
+Processing line: 230898817044829
+Number 230898817044829 is NOT present in fresh batches
+Processing line: 101971843876556
+Number 101971843876556 is NOT present in fresh batches
+Processing line: 559054288187884
+Number 559054288187884 is present in fresh batches
+Processing line: 325033117203863
+Number 325033117203863 is present in fresh batches
+Processing line: 434474149306142
+Number 434474149306142 is present in fresh batches
+Processing line: 529532999622729
+Number 529532999622729 is present in fresh batches
+Processing line: 311855663657495
+Number 311855663657495 is NOT present in fresh batches
+Processing line: 495045094835257
+Number 495045094835257 is present in fresh batches
+Processing line: 543140934747397
+Number 543140934747397 is NOT present in fresh batches
+Processing line: 243782851784725
+Number 243782851784725 is present in fresh batches
+Processing line: 389638372954384
+Number 389638372954384 is present in fresh batches
+Processing line: 30825252218612
+Number 30825252218612 is NOT present in fresh batches
+Processing line: 290963721524680
+Number 290963721524680 is NOT present in fresh batches
+Processing line: 463580525566156
+Number 463580525566156 is present in fresh batches
+Processing line: 421265901856376
+Number 421265901856376 is NOT present in fresh batches
+Processing line: 398580372610338
+Number 398580372610338 is present in fresh batches
+Processing line: 407253825625425
+Number 407253825625425 is present in fresh batches
+Processing line: 186631606644849
+Number 186631606644849 is present in fresh batches
+Processing line: 121524811180781
+Number 121524811180781 is NOT present in fresh batches
+Processing line: 334020091081234
+Number 334020091081234 is NOT present in fresh batches
+Processing line: 530295192252916
+Number 530295192252916 is present in fresh batches
+Processing line: 378228061029874
+Number 378228061029874 is present in fresh batches
+Processing line: 136389041787230
+Number 136389041787230 is NOT present in fresh batches
+Processing line: 342068594556450
+Number 342068594556450 is NOT present in fresh batches
+Processing line: 19217397185657
+Number 19217397185657 is present in fresh batches
+Processing line: 119368153325950
+Number 119368153325950 is present in fresh batches
+Processing line: 390686523430443
+Number 390686523430443 is NOT present in fresh batches
+Processing line: 311572495200126
+Number 311572495200126 is NOT present in fresh batches
+Processing line: 129806213081866
+Number 129806213081866 is NOT present in fresh batches
+Processing line: 326386038273272
+Number 326386038273272 is present in fresh batches
+Processing line: 67131565752625
+Number 67131565752625 is present in fresh batches
+Processing line: 466906775881336
+Number 466906775881336 is present in fresh batches
+Processing line: 37796400409496
+Number 37796400409496 is present in fresh batches
+Processing line: 256810815088362
+Number 256810815088362 is present in fresh batches
+Processing line: 62243903951739
+Number 62243903951739 is present in fresh batches
+Processing line: 222260310586977
+Number 222260310586977 is NOT present in fresh batches
+Processing line: 9724904779269
+Number 9724904779269 is NOT present in fresh batches
+Processing line: 215443687496938
+Number 215443687496938 is present in fresh batches
+Processing line: 239555333105979
+Number 239555333105979 is NOT present in fresh batches
+Processing line: 255132331489764
+Number 255132331489764 is present in fresh batches
+Processing line: 63046867102443
+Number 63046867102443 is present in fresh batches
+Processing line: 245214279067345
+Number 245214279067345 is present in fresh batches
+Processing line: 215109675353048
+Number 215109675353048 is present in fresh batches
+Processing line: 445126972814311
+Number 445126972814311 is present in fresh batches
+Processing line: 482536963572640
+Number 482536963572640 is NOT present in fresh batches
+Processing line: 391785147601225
+Number 391785147601225 is NOT present in fresh batches
+Processing line: 460315215110034
+Number 460315215110034 is present in fresh batches
+Processing line: 84469774443601
+Number 84469774443601 is present in fresh batches
+Processing line: 143381621356639
+Number 143381621356639 is present in fresh batches
+Processing line: 236442610586229
+Number 236442610586229 is present in fresh batches
+Processing line: 37209947162903
+Number 37209947162903 is present in fresh batches
+Processing line: 349143868801990
+Number 349143868801990 is present in fresh batches
+Processing line: 135563816322770
+Number 135563816322770 is NOT present in fresh batches
+Processing line: 156211101236221
+Number 156211101236221 is present in fresh batches
+Processing line: 413982097513686
+Number 413982097513686 is present in fresh batches
+Processing line: 25826940848569
+Number 25826940848569 is present in fresh batches
+Processing line: 173271541694884
+Number 173271541694884 is NOT present in fresh batches
+Processing line: 71489122146274
+Number 71489122146274 is present in fresh batches
+Processing line: 234510592259402
+Number 234510592259402 is present in fresh batches
+Processing line: 222633579432893
+Number 222633579432893 is NOT present in fresh batches
+Processing line: 271736241355241
+Number 271736241355241 is NOT present in fresh batches
+Processing line: 1024746750576
+Number 1024746750576 is NOT present in fresh batches
+Processing line: 72953525701340
+Number 72953525701340 is present in fresh batches
+Processing line: 299113332666436
+Number 299113332666436 is NOT present in fresh batches
+Processing line: 276756976526566
+Number 276756976526566 is present in fresh batches
+Processing line: 389859901125326
+Number 389859901125326 is present in fresh batches
+Processing line: 92628625103170
+Number 92628625103170 is NOT present in fresh batches
+Processing line: 532678172081978
+Number 532678172081978 is NOT present in fresh batches
+Processing line: 67508589381009
+Number 67508589381009 is present in fresh batches
+Processing line: 174721207326630
+Number 174721207326630 is present in fresh batches
+Processing line: 128102088576256
+Number 128102088576256 is present in fresh batches
+Processing line: 489658663097591
+Number 489658663097591 is present in fresh batches
+Processing line: 556190193175597
+Number 556190193175597 is present in fresh batches
+Processing line: 105908635309153
+Number 105908635309153 is present in fresh batches
+Processing line: 58226773326105
+Number 58226773326105 is NOT present in fresh batches
+Processing line: 457261759301856
+Number 457261759301856 is present in fresh batches
+Processing line: 182521459025459
+Number 182521459025459 is NOT present in fresh batches
+Processing line: 173703926104980
+Number 173703926104980 is present in fresh batches
+Processing line: 275388680702092
+Number 275388680702092 is present in fresh batches
+Processing line: 261281964963445
+Number 261281964963445 is NOT present in fresh batches
+Processing line: 409460199439826
+Number 409460199439826 is present in fresh batches
+Processing line: 203856024055473
+Number 203856024055473 is NOT present in fresh batches
+Processing line: 248584072655534
+Number 248584072655534 is present in fresh batches
+Processing line: 3582894203389
+Number 3582894203389 is present in fresh batches
+Processing line: 472484989231480
+Number 472484989231480 is NOT present in fresh batches
+Processing line: 300793779657939
+Number 300793779657939 is NOT present in fresh batches
+Processing line: 526765046278031
+Number 526765046278031 is present in fresh batches
+Processing line: 308022883775543
+Number 308022883775543 is present in fresh batches
+Processing line: 148720387605875
+Number 148720387605875 is present in fresh batches
+Processing line: 443337490956962
+Number 443337490956962 is NOT present in fresh batches
+Processing line: 368144727689432
+Number 368144727689432 is present in fresh batches
+Processing line: 249423113137632
+Number 249423113137632 is present in fresh batches
+Processing line: 258785108274313
+Number 258785108274313 is NOT present in fresh batches
+Processing line: 74972501448533
+Number 74972501448533 is present in fresh batches
+Processing line: 438371407749434
+Number 438371407749434 is present in fresh batches
+Processing line: 207621608184436
+Number 207621608184436 is NOT present in fresh batches
+Processing line: 250859323572484
+Number 250859323572484 is present in fresh batches
+Processing line: 107586567774129
+Number 107586567774129 is NOT present in fresh batches
+Processing line: 207482868746775
+Number 207482868746775 is NOT present in fresh batches
+Processing line: 69173579524801
+Number 69173579524801 is present in fresh batches
+Processing line: 399161730056188
+Number 399161730056188 is present in fresh batches
+Processing line: 243066609356409
+Number 243066609356409 is present in fresh batches
+Processing line: 547662593872445
+Number 547662593872445 is present in fresh batches
+Processing line: 345142401213549
+Number 345142401213549 is present in fresh batches
+Processing line: 9211778542490
+Number 9211778542490 is NOT present in fresh batches
+Processing line: 100558115866435
+Number 100558115866435 is NOT present in fresh batches
+Processing line: 320494630135128
+Number 320494630135128 is NOT present in fresh batches
+Processing line: 440956978399346
+Number 440956978399346 is present in fresh batches
+Processing line: 213301586331396
+Number 213301586331396 is present in fresh batches
+Processing line: 558146013130179
+Number 558146013130179 is present in fresh batches
+Processing line: 193728887722171
+Number 193728887722171 is present in fresh batches
+Processing line: 509436241833789
+Number 509436241833789 is present in fresh batches
+Processing line: 30736929378760
+Number 30736929378760 is NOT present in fresh batches
+Processing line: 330087757315571
+Number 330087757315571 is present in fresh batches
+Processing line: 130447077930700
+Number 130447077930700 is NOT present in fresh batches
+Processing line: 394307375388589
+Number 394307375388589 is present in fresh batches
+Processing line: 178808366366776
+Number 178808366366776 is NOT present in fresh batches
+Processing line: 322241230219371
+Number 322241230219371 is NOT present in fresh batches
+Processing line: 176292657298506
+Number 176292657298506 is present in fresh batches
+Processing line: 214245914308824
+Number 214245914308824 is present in fresh batches
+Processing line: 348161552002502
+Number 348161552002502 is present in fresh batches
+Processing line: 304130795888994
+Number 304130795888994 is present in fresh batches
+Processing line: 169326639417319
+Number 169326639417319 is NOT present in fresh batches
+Processing line: 18416882688532
+Number 18416882688532 is present in fresh batches
+Processing line: 9228704388371
+Number 9228704388371 is NOT present in fresh batches
+Processing line: 53848768316932
+Number 53848768316932 is present in fresh batches
+Processing line: 488587076374229
+Number 488587076374229 is present in fresh batches
+Processing line: 456449710733863
+Number 456449710733863 is present in fresh batches
+Processing line: 200541228656410
+Number 200541228656410 is NOT present in fresh batches
+Processing line: 386625179294274
+Number 386625179294274 is present in fresh batches
+Processing line: 469203837908734
+Number 469203837908734 is present in fresh batches
+Processing line: 478370368134789
+Number 478370368134789 is present in fresh batches
+Processing line: 136266358814268
+Number 136266358814268 is present in fresh batches
+Processing line: 315524198922526
+Number 315524198922526 is present in fresh batches
+Processing line: 140499321493032
+Number 140499321493032 is NOT present in fresh batches
+Processing line: 190896267661634
+Number 190896267661634 is NOT present in fresh batches
+Processing line: 215761394600416
+Number 215761394600416 is present in fresh batches
+Processing line: 145519442804255
+Number 145519442804255 is present in fresh batches
+Processing line: 227793854142486
+Number 227793854142486 is NOT present in fresh batches
+Processing line: 124360371881414
+Number 124360371881414 is present in fresh batches
+Processing line: 272833297213422
+Number 272833297213422 is NOT present in fresh batches
+Processing line: 300364534980410
+Number 300364534980410 is NOT present in fresh batches
+Processing line: 448747418711135
+Number 448747418711135 is present in fresh batches
+Processing line: 8262107708822
+Number 8262107708822 is NOT present in fresh batches
+Processing line: 221927740072710
+Number 221927740072710 is NOT present in fresh batches
+Processing line: 436855908372566
+Number 436855908372566 is present in fresh batches
+Processing line: 316469969363762
+Number 316469969363762 is present in fresh batches
+Processing line: 333266640398636
+Number 333266640398636 is NOT present in fresh batches
+Processing line: 210301406095780
+Number 210301406095780 is NOT present in fresh batches
+Processing line: 336439340746591
+Number 336439340746591 is present in fresh batches
+Processing line: 353588741894611
+Number 353588741894611 is NOT present in fresh batches
+Processing line: 153731698223979
+Number 153731698223979 is present in fresh batches
+Processing line: 116549963962795
+Number 116549963962795 is present in fresh batches
+Processing line: 19691909042459
+Number 19691909042459 is present in fresh batches
+Processing line: 275177333790441
+Number 275177333790441 is present in fresh batches
+Processing line: 5035006572937
+Number 5035006572937 is present in fresh batches
+Processing line: 310188787189814
+Number 310188787189814 is NOT present in fresh batches
+Processing line: 289121888666729
+Number 289121888666729 is NOT present in fresh batches
+Processing line: 466011721345837
+Number 466011721345837 is present in fresh batches
+Processing line: 43472849113868
+Number 43472849113868 is present in fresh batches
+Processing line: 45728402737227
+Number 45728402737227 is present in fresh batches
+Processing line: 152239544103826
+Number 152239544103826 is NOT present in fresh batches
+Processing line: 5258914789278
+Number 5258914789278 is present in fresh batches
+Processing line: 214412488871962
+Number 214412488871962 is present in fresh batches
+Processing line: 553554129814568
+Number 553554129814568 is present in fresh batches
+Processing line: 134866421244830
+Number 134866421244830 is present in fresh batches
+Processing line: 323570443622766
+Number 323570443622766 is present in fresh batches
+Processing line: 22158548117136
+Number 22158548117136 is present in fresh batches
+Processing line: 493190650417780
+Number 493190650417780 is NOT present in fresh batches
+Processing line: 256975414452370
+Number 256975414452370 is present in fresh batches
+Processing line: 156451672202621
+Number 156451672202621 is present in fresh batches
+Processing line: 156887660997216
+Number 156887660997216 is present in fresh batches
+Processing line: 77702141884960
+Number 77702141884960 is present in fresh batches
+Processing line: 549550950226170
+Number 549550950226170 is present in fresh batches
+Processing line: 479232253772868
+Number 479232253772868 is present in fresh batches
+Processing line: 12519761816434
+Number 12519761816434 is present in fresh batches
+Processing line: 419300339798070
+Number 419300339798070 is present in fresh batches
+Processing line: 555203426711049
+Number 555203426711049 is present in fresh batches
+Processing line: 357254560240567
+Number 357254560240567 is present in fresh batches
+Processing line: 106086277843779
+Number 106086277843779 is present in fresh batches
+Processing line: 51229667395515
+Number 51229667395515 is NOT present in fresh batches
+Processing line: 667363505683
+Number 667363505683 is NOT present in fresh batches
+Processing line: 538650234461765
+Number 538650234461765 is present in fresh batches
+Processing line: 124840589486089
+Number 124840589486089 is present in fresh batches
+Processing line: 78760819350205
+Number 78760819350205 is present in fresh batches
+Processing line: 38138435630156
+Number 38138435630156 is present in fresh batches
+Processing line: 479547012859968
+Number 479547012859968 is present in fresh batches
+Processing line: 560378120182179
+Number 560378120182179 is present in fresh batches
+Processing line: 465547495576586
+Number 465547495576586 is present in fresh batches
+Processing line: 193837272691957
+Number 193837272691957 is present in fresh batches
+Processing line: 156673354972908
+Number 156673354972908 is present in fresh batches
+Processing line: 466622444368174
+Number 466622444368174 is present in fresh batches
+Processing line: 149241914948648
+Number 149241914948648 is present in fresh batches
+Processing line: 97855898195023
+Number 97855898195023 is NOT present in fresh batches
+Processing line: 198618237859899
+Number 198618237859899 is NOT present in fresh batches
+Processing line: 119627675163732
+Number 119627675163732 is present in fresh batches
+Processing line: 175585775875680
+Number 175585775875680 is present in fresh batches
+Processing line: 71493375934521
+Number 71493375934521 is present in fresh batches
+Processing line: 430952500903299
+Number 430952500903299 is NOT present in fresh batches
+Processing line: 176600623683997
+Number 176600623683997 is NOT present in fresh batches
+Processing line: 524296425832445
+Number 524296425832445 is present in fresh batches
+Processing line: 524888416092913
+Number 524888416092913 is present in fresh batches
+Processing line: 533168549160832
+Number 533168549160832 is NOT present in fresh batches
+Processing line: 465918856780972
+Number 465918856780972 is present in fresh batches
+Processing line: 395510131489098
+Number 395510131489098 is present in fresh batches
+Processing line: 97344639635424
+Number 97344639635424 is present in fresh batches
+Processing line: 400422904033624
+Number 400422904033624 is present in fresh batches
+Processing line: 501925474745886
+Number 501925474745886 is NOT present in fresh batches
+Processing line: 157349629518268
+Number 157349629518268 is present in fresh batches
+Processing line: 561092129926872
+Number 561092129926872 is present in fresh batches
+Processing line: 545599999589297
+Number 545599999589297 is NOT present in fresh batches
+Processing line: 373089414218577
+Number 373089414218577 is present in fresh batches
+Processing line: 437093536342430
+Number 437093536342430 is present in fresh batches
+Processing line: 361417033758155
+Number 361417033758155 is present in fresh batches
+Processing line: 487853277088830
+Number 487853277088830 is present in fresh batches
+Processing line: 135560836836732
+Number 135560836836732 is NOT present in fresh batches
+Processing line: 545612332976810
+Number 545612332976810 is NOT present in fresh batches
+Processing line: 208528809559477
+Number 208528809559477 is NOT present in fresh batches
+Processing line: 309437817388883
+Number 309437817388883 is present in fresh batches
+Processing line: 425903338172352
+Number 425903338172352 is NOT present in fresh batches
+Processing line: 458616593196333
+Number 458616593196333 is present in fresh batches
+Processing line: 90212155214078
+Number 90212155214078 is NOT present in fresh batches
+Processing line: 484989978020141
+Number 484989978020141 is NOT present in fresh batches
+Processing line: 257250440552886
+Number 257250440552886 is present in fresh batches
+Processing line: 473317997081955
+Number 473317997081955 is NOT present in fresh batches
+Processing line: 247384400096993
+Number 247384400096993 is present in fresh batches
+Processing line: 543399763848370
+Number 543399763848370 is NOT present in fresh batches
+Processing line: 222275918306910
+Number 222275918306910 is NOT present in fresh batches
+Processing line: 152987382656511
+Number 152987382656511 is NOT present in fresh batches
+Processing line: 435858318467416
+Number 435858318467416 is present in fresh batches
+Processing line: 293980905939353
+Number 293980905939353 is present in fresh batches
+Processing line: 155360709488314
+Number 155360709488314 is present in fresh batches
+Processing line: 173910120479677
+Number 173910120479677 is present in fresh batches
+Processing line: 548607293762121
+Number 548607293762121 is present in fresh batches
+Processing line: 422375166852866
+Number 422375166852866 is NOT present in fresh batches
+Processing line: 441442776185866
+Number 441442776185866 is NOT present in fresh batches
+Processing line: 276101558588917
+Number 276101558588917 is present in fresh batches
+Processing line: 469736632520808
+Number 469736632520808 is present in fresh batches
+Processing line: 308940441889832
+Number 308940441889832 is present in fresh batches
+Processing line: 100020542208460
+Number 100020542208460 is NOT present in fresh batches
+Processing line: 510083399073061
+Number 510083399073061 is present in fresh batches
+Processing line: 73910825704090
+Number 73910825704090 is present in fresh batches
+Processing line: 377491766989603
+Number 377491766989603 is present in fresh batches
+Processing line: 127695330165543
+Number 127695330165543 is present in fresh batches
+Processing line: 150459810745668
+Number 150459810745668 is NOT present in fresh batches
+Processing line: 226333790027074
+Number 226333790027074 is present in fresh batches
+Processing line: 173087000839310
+Number 173087000839310 is NOT present in fresh batches
+Processing line: 431228267939065
+Number 431228267939065 is NOT present in fresh batches
+Processing line: 48432529484158
+Number 48432529484158 is present in fresh batches
+Processing line: 372476003277720
+Number 372476003277720 is NOT present in fresh batches
+Processing line: 316077661901432
+Number 316077661901432 is present in fresh batches
+Processing line: 524470271994584
+Number 524470271994584 is present in fresh batches
+Processing line: 228687207625210
+Number 228687207625210 is NOT present in fresh batches
+Processing line: 107782814443172
+Number 107782814443172 is NOT present in fresh batches
+Processing line: 306601599390111
+Number 306601599390111 is present in fresh batches
+Processing line: 507435756698172
+Number 507435756698172 is present in fresh batches
+Processing line: 532150758390744
+Number 532150758390744 is NOT present in fresh batches
+Processing line: 195142163562583
+Number 195142163562583 is present in fresh batches
+Processing line: 195502084483854
+Number 195502084483854 is present in fresh batches
+Processing line: 386953901806783
+Number 386953901806783 is present in fresh batches
+Processing line: 294863965859913
+Number 294863965859913 is NOT present in fresh batches
+Processing line: 393030769418873
+Number 393030769418873 is NOT present in fresh batches
+Processing line: 111495981485993
+Number 111495981485993 is NOT present in fresh batches
+Processing line: 295065223545569
+Number 295065223545569 is NOT present in fresh batches
+Processing line: 316881583840771
+Number 316881583840771 is present in fresh batches
+Processing line: 514723750187909
+Number 514723750187909 is NOT present in fresh batches
+Processing line: 54670913139848
+Number 54670913139848 is present in fresh batches
+Processing line: 281092189176692
+Number 281092189176692 is NOT present in fresh batches
+Processing line: 49032334501041
+Number 49032334501041 is present in fresh batches
+Processing line: 11654478106979
+Number 11654478106979 is present in fresh batches
+Processing line: 26604732458001
+Number 26604732458001 is present in fresh batches
+Processing line: 56452930153494
+Number 56452930153494 is present in fresh batches
+Processing line: 316832459577023
+Number 316832459577023 is present in fresh batches
+Processing line: 413208616004676
+Number 413208616004676 is present in fresh batches
+Processing line: 217994127670605
+Number 217994127670605 is present in fresh batches
+Processing line: 535610767106316
+Number 535610767106316 is present in fresh batches
+Processing line: 280582690839568
+Number 280582690839568 is NOT present in fresh batches
+Processing line: 20844697217228
+Number 20844697217228 is NOT present in fresh batches
+Processing line: 354314469935924
+Number 354314469935924 is present in fresh batches
+Processing line: 202330826776254
+Number 202330826776254 is NOT present in fresh batches
+Processing line: 219127789219961
+Number 219127789219961 is present in fresh batches
+Processing line: 15034437947827
+Number 15034437947827 is present in fresh batches
+Processing line: 150053263600230
+Number 150053263600230 is NOT present in fresh batches
+Processing line: 450158606027757
+Number 450158606027757 is NOT present in fresh batches
+Processing line: 10295932658069
+Number 10295932658069 is present in fresh batches
+Processing line: 241105241821266
+Number 241105241821266 is NOT present in fresh batches
+Processing line: 205114237932674
+Number 205114237932674 is present in fresh batches
+Processing line: 494311901952828
+Number 494311901952828 is present in fresh batches
+Processing line: 395636773134158
+Number 395636773134158 is present in fresh batches
+Processing line: 52569579050219
+Number 52569579050219 is NOT present in fresh batches
+Processing line: 401934618799981
+Number 401934618799981 is NOT present in fresh batches
+Processing line: 538212064250347
+Number 538212064250347 is present in fresh batches
+Processing line: 269499605693744
+Number 269499605693744 is NOT present in fresh batches
+Processing line: 318878654782658
+Number 318878654782658 is present in fresh batches
+Processing line: 486162044824462
+Number 486162044824462 is present in fresh batches
+Processing line: 157786296050382
+Number 157786296050382 is present in fresh batches
+Processing line: 373982423679728
+Number 373982423679728 is present in fresh batches
+Processing line: 187486267000764
+Number 187486267000764 is present in fresh batches
+Processing line: 349974008114492
+Number 349974008114492 is present in fresh batches
+Processing line: 342813374408112
+Number 342813374408112 is present in fresh batches
+Processing line: 356977471700509
+Number 356977471700509 is present in fresh batches
+Processing line: 361163121839523
+Number 361163121839523 is present in fresh batches
+Processing line: 282975456387055
+Number 282975456387055 is NOT present in fresh batches
+Processing line: 116597322988371
+Number 116597322988371 is present in fresh batches
+Processing line: 363793515452149
+Number 363793515452149 is NOT present in fresh batches
+Processing line: 525369158330923
+Number 525369158330923 is present in fresh batches
+Processing line: 341197966780353
+Number 341197966780353 is NOT present in fresh batches
+Processing line: 285885248808192
+Number 285885248808192 is present in fresh batches
+Processing line: 261281083564931
+Number 261281083564931 is NOT present in fresh batches
+Processing line: 495297304557035
+Number 495297304557035 is present in fresh batches
+Processing line: 200994437028643
+Number 200994437028643 is NOT present in fresh batches
+Processing line: 66712652239682
+Number 66712652239682 is present in fresh batches
+Processing line: 215932120448150
+Number 215932120448150 is present in fresh batches
+Processing line: 448383340019120
+Number 448383340019120 is present in fresh batches
+Processing line: 329818484993412
+Number 329818484993412 is present in fresh batches
+Processing line: 313547418381277
+Number 313547418381277 is present in fresh batches
+Processing line: 108452941030717
+Number 108452941030717 is NOT present in fresh batches
+Processing line: 85185653658184
+Number 85185653658184 is present in fresh batches
+Processing line: 250909336933547
+Number 250909336933547 is present in fresh batches
+Processing line: 333154398911050
+Number 333154398911050 is NOT present in fresh batches
+Processing line: 514396737564989
+Number 514396737564989 is NOT present in fresh batches
+Processing line: 296916265860576
+Number 296916265860576 is present in fresh batches
+Processing line: 491330391998762
+Number 491330391998762 is NOT present in fresh batches
+Processing line: 304602845737866
+Number 304602845737866 is present in fresh batches
+Processing line: 211347650529799
+Number 211347650529799 is NOT present in fresh batches
+Processing line: 25019757129217
+Number 25019757129217 is present in fresh batches
+Processing line: 460695936413214
+Number 460695936413214 is present in fresh batches
+Processing line: 400532582738519
+Number 400532582738519 is present in fresh batches
+Processing line: 211482923588884
+Number 211482923588884 is NOT present in fresh batches
+Processing line: 11831656795591
+Number 11831656795591 is present in fresh batches
+Processing line: 554041739069556
+Number 554041739069556 is present in fresh batches
+Processing line: 551543639948995
+Number 551543639948995 is present in fresh batches
+Processing line: 173603573174285
+Number 173603573174285 is present in fresh batches
+Processing line: 175085948281266
+Number 175085948281266 is present in fresh batches
+Processing line: 106986522175783
+Number 106986522175783 is NOT present in fresh batches
+Processing line: 239437146684739
+Number 239437146684739 is NOT present in fresh batches
+Processing line: 169139749309415
+Number 169139749309415 is NOT present in fresh batches
+Processing line: 196755256557021
+Number 196755256557021 is present in fresh batches
+Processing line: 130649894514400
+Number 130649894514400 is NOT present in fresh batches
+Processing line: 487167295059014
+Number 487167295059014 is present in fresh batches
+Processing line: 165568290623887
+Number 165568290623887 is present in fresh batches
+Processing line: 310607619032464
+Number 310607619032464 is NOT present in fresh batches
+Processing line: 476658681499891
+Number 476658681499891 is present in fresh batches
+Processing line: 548786017710889
+Number 548786017710889 is present in fresh batches
+Processing line: 472683182618266
+Number 472683182618266 is NOT present in fresh batches
+Processing line: 199248645362660
+Number 199248645362660 is NOT present in fresh batches
+Processing line: 488206498680809
+Number 488206498680809 is present in fresh batches
+Processing line: 522534548018379
+Number 522534548018379 is NOT present in fresh batches
+Processing line: 80146965952984
+Number 80146965952984 is NOT present in fresh batches
+Processing line: 19310213577291
+Number 19310213577291 is present in fresh batches
+Processing line: 163749115333050
+Number 163749115333050 is present in fresh batches
+Processing line: 138366526312254
+Number 138366526312254 is present in fresh batches
+Processing line: 64823526214022
+Number 64823526214022 is present in fresh batches
+Processing line: 209002975248370
+Number 209002975248370 is NOT present in fresh batches
+Processing line: 8625252022553
+Number 8625252022553 is NOT present in fresh batches
+Processing line: 104980297028617
+Number 104980297028617 is present in fresh batches
+Processing line: 183802600671218
+Number 183802600671218 is NOT present in fresh batches
+Processing line: 201060873403903
+Number 201060873403903 is NOT present in fresh batches
+Processing line: 446168745238982
+Number 446168745238982 is present in fresh batches
+Processing line: 415377319364010
+Number 415377319364010 is present in fresh batches
+Processing line: 141202506310932
+Number 141202506310932 is NOT present in fresh batches
+Processing line: 388687345676633
+Number 388687345676633 is present in fresh batches
+Processing line: 12254174846855
+Number 12254174846855 is present in fresh batches
+Processing line: 46969152749088
+Number 46969152749088 is present in fresh batches
+Processing line: 379451555010569
+Number 379451555010569 is NOT present in fresh batches
+Processing line: 87957325829618
+Number 87957325829618 is present in fresh batches
+Processing line: 366179152731035
+Number 366179152731035 is present in fresh batches
+Processing line: 176296534390518
+Number 176296534390518 is present in fresh batches
+Processing line: 52404934668617
+Number 52404934668617 is NOT present in fresh batches
+Processing line: 396295791802743
+Number 396295791802743 is present in fresh batches
+Processing line: 346588915985076
+Number 346588915985076 is present in fresh batches
+Processing line: 476865201687090
+Number 476865201687090 is present in fresh batches
+Processing line: 395916584551617
+Number 395916584551617 is present in fresh batches
+Processing line: 338968038423552
+Number 338968038423552 is present in fresh batches
+Processing line: 83808973552422
+Number 83808973552422 is present in fresh batches
+Processing line: 10354034038494
+Number 10354034038494 is present in fresh batches
+Processing line: 118750847437115
+Number 118750847437115 is present in fresh batches
+Processing line: 181265437532091
+Number 181265437532091 is NOT present in fresh batches
+Processing line: 319792367721393
+Number 319792367721393 is present in fresh batches
+Processing line: 115120329567189
+Number 115120329567189 is present in fresh batches
+Processing line: 475378125684280
+Number 475378125684280 is present in fresh batches
+Processing line: 7502175710378
+Number 7502175710378 is NOT present in fresh batches
+Processing line: 32847834485076
+Number 32847834485076 is NOT present in fresh batches
+Processing line: 184259397581404
+Number 184259397581404 is NOT present in fresh batches
+Processing line: 135680985089534
+Number 135680985089534 is present in fresh batches
+Processing line: 540795301155069
+Number 540795301155069 is present in fresh batches
+Processing line: 464752245553172
+Number 464752245553172 is present in fresh batches
+Processing line: 164896761417860
+Number 164896761417860 is present in fresh batches
+Processing line: 411382498159181
+Number 411382498159181 is NOT present in fresh batches
+Processing line: 544849920414544
+Number 544849920414544 is NOT present in fresh batches
+Processing line: 190407612903411
+Number 190407612903411 is NOT present in fresh batches
+Processing line: 221541987780194
+Number 221541987780194 is NOT present in fresh batches
+Processing line: 171958412237384
+Number 171958412237384 is NOT present in fresh batches
+Processing line: 344661814541298
+Number 344661814541298 is present in fresh batches
+Processing line: 245427011899139
+Number 245427011899139 is present in fresh batches
+Processing line: 417900326504672
+Number 417900326504672 is present in fresh batches
+Processing line: 467495284468727
+Number 467495284468727 is present in fresh batches
+Processing line: 365168366153037
+Number 365168366153037 is present in fresh batches
+Processing line: 170940675123177
+Number 170940675123177 is NOT present in fresh batches
+Processing line: 453697443659905
+Number 453697443659905 is present in fresh batches
+Processing line: 206476618782009
+Number 206476618782009 is present in fresh batches
+Processing line: 205361219936585
+Number 205361219936585 is present in fresh batches
+Processing line: 548390147540737
+Number 548390147540737 is present in fresh batches
+Processing line: 93454122084266
+Number 93454122084266 is NOT present in fresh batches
+Processing line: 450811444448592
+Number 450811444448592 is present in fresh batches
+Processing line: 447541305142114
+Number 447541305142114 is present in fresh batches
+Processing line: 309976667111420
+Number 309976667111420 is NOT present in fresh batches
+Processing line: 237990059889402
+Number 237990059889402 is present in fresh batches
+Processing line: 126541812943448
+Number 126541812943448 is present in fresh batches
+Processing line: 74321740789900
+Number 74321740789900 is present in fresh batches
+Processing line: 96658249265982
+Number 96658249265982 is present in fresh batches
+Processing line: 57622895694702
+Number 57622895694702 is NOT present in fresh batches
+Processing line: 354096208612315
+Number 354096208612315 is present in fresh batches
+Processing line: 544341683609868
+Number 544341683609868 is NOT present in fresh batches
+Processing line: 292220201148490
+Number 292220201148490 is present in fresh batches
+Processing line: 476247831762271
+Number 476247831762271 is present in fresh batches
+Processing line: 355019437585919
+Number 355019437585919 is present in fresh batches
+Processing line: 233690316389888
+Number 233690316389888 is NOT present in fresh batches
+Processing line: 123833332405545
+Number 123833332405545 is present in fresh batches
+Processing line: 394944482396800
+Number 394944482396800 is present in fresh batches
+Processing line: 143939412796941
+Number 143939412796941 is present in fresh batches
+Processing line: 371881674725885
+Number 371881674725885 is NOT present in fresh batches
+Processing line: 429472190164984
+Number 429472190164984 is present in fresh batches
+Processing line: 458472238346461
+Number 458472238346461 is present in fresh batches
+Processing line: 131353883367439
+Number 131353883367439 is NOT present in fresh batches
+Processing line: 157562607279525
+Number 157562607279525 is present in fresh batches
+Processing line: 239450333303126
+Number 239450333303126 is NOT present in fresh batches
+Processing line: 307241384669546
+Number 307241384669546 is present in fresh batches
+Processing line: 324745537834855
+Number 324745537834855 is present in fresh batches
+Processing line: 195735010664804
+Number 195735010664804 is present in fresh batches
+Processing line: 137814425082438
+Number 137814425082438 is NOT present in fresh batches
+Processing line: 414835545745912
+Number 414835545745912 is present in fresh batches
+Processing line: 103798387490127
+Number 103798387490127 is NOT present in fresh batches
+Processing line: 415413089445940
+Number 415413089445940 is present in fresh batches
+Processing line: 504109238625688
+Number 504109238625688 is present in fresh batches
+Processing line: 419556384720432
+Number 419556384720432 is present in fresh batches
+Processing line: 72044297572631
+Number 72044297572631 is present in fresh batches
+Processing line: 456716378778988
+Number 456716378778988 is present in fresh batches
+Processing line: 456185304074157
+Number 456185304074157 is present in fresh batches
+Processing line: 74500210775217
+Number 74500210775217 is present in fresh batches
+Processing line: 341337704960704
+Number 341337704960704 is NOT present in fresh batches
+Processing line: 185291939565548
+Number 185291939565548 is present in fresh batches
+Processing line: 272224872025747
+Number 272224872025747 is NOT present in fresh batches
+Processing line: 36413129519914
+Number 36413129519914 is present in fresh batches
+Processing line: 21862726124954
+Number 21862726124954 is present in fresh batches
+Processing line: 437162625599993
+Number 437162625599993 is present in fresh batches
+Processing line: 444466269001153
+Number 444466269001153 is present in fresh batches
+Processing line: 389356259255008
+Number 389356259255008 is present in fresh batches
+Processing line: 399751401212040
+Number 399751401212040 is present in fresh batches
+Processing line: 465648846428889
+Number 465648846428889 is present in fresh batches
+Processing line: 116077590042748
+Number 116077590042748 is present in fresh batches
+Processing line: 517293887914395
+Number 517293887914395 is present in fresh batches
+Processing line: 36289175131412
+Number 36289175131412 is present in fresh batches
+Processing line: 317735714512018
+Number 317735714512018 is present in fresh batches
+Processing line: 197525724978507
+Number 197525724978507 is present in fresh batches
+Processing line: 491892003317188
+Number 491892003317188 is NOT present in fresh batches
+Processing line: 460181478708630
+Number 460181478708630 is present in fresh batches
+Processing line: 518453008057203
+Number 518453008057203 is present in fresh batches
+Processing line: 91898427387084
+Number 91898427387084 is NOT present in fresh batches
+Processing line: 89049968711974
+Number 89049968711974 is present in fresh batches
+Processing line: 271928282280608
+Number 271928282280608 is NOT present in fresh batches
+Processing line: 440444307418635
+Number 440444307418635 is present in fresh batches
+Processing line: 263171875143849
+Number 263171875143849 is present in fresh batches
+Processing line: 498074439786939
+Number 498074439786939 is present in fresh batches
+Processing line: 260183577813019
+Number 260183577813019 is NOT present in fresh batches
+Processing line: 452015611754143
+Number 452015611754143 is NOT present in fresh batches
+Processing line: 42908037693539
+Number 42908037693539 is present in fresh batches
+Processing line: 528358927476697
+Number 528358927476697 is present in fresh batches
+Processing line: 263269896512906
+Number 263269896512906 is present in fresh batches
+Processing line: 511606200623654
+Number 511606200623654 is NOT present in fresh batches
+Processing line: 192593754145033
+Number 192593754145033 is NOT present in fresh batches
+Processing line: 338016828611410
+Number 338016828611410 is present in fresh batches
+Processing line: 509731718367009
+Number 509731718367009 is present in fresh batches
+Processing line: 116972644990972
+Number 116972644990972 is present in fresh batches
+Processing line: 208538034916454
+Number 208538034916454 is NOT present in fresh batches
+Processing line: 464499821585609
+Number 464499821585609 is present in fresh batches
+Processing line: 334445543870662
+Number 334445543870662 is NOT present in fresh batches
+Processing line: 561434691780839
+Number 561434691780839 is present in fresh batches
+Processing line: 441677260115318
+Number 441677260115318 is NOT present in fresh batches
+Processing line: 509120485412510
+Number 509120485412510 is present in fresh batches
+Processing line: 27058646489134
+Number 27058646489134 is present in fresh batches
+Processing line: 467128767836856
+Number 467128767836856 is present in fresh batches
+Processing line: 311209742464685
+Number 311209742464685 is NOT present in fresh batches
+Processing line: 175235241607431
+Number 175235241607431 is present in fresh batches
+Processing line: 549178725258835
+Number 549178725258835 is present in fresh batches
+Processing line: 524882556724063
+Number 524882556724063 is present in fresh batches
+Processing line: 491400393753564
+Number 491400393753564 is NOT present in fresh batches
+Processing line: 39432744918831
+Number 39432744918831 is NOT present in fresh batches
+Processing line: 327022347606505
+Number 327022347606505 is present in fresh batches
+Processing line: 166934503752284
+Number 166934503752284 is present in fresh batches
+Processing line: 189605382929503
+Number 189605382929503 is NOT present in fresh batches
+Processing line: 88625889340831
+Number 88625889340831 is present in fresh batches
+Processing line: 92903501821856
+Number 92903501821856 is NOT present in fresh batches
+Processing line: 114460280762710
+Number 114460280762710 is present in fresh batches
+Processing line: 197570840798880
+Number 197570840798880 is present in fresh batches
+Processing line: 21506506092468
+Number 21506506092468 is NOT present in fresh batches
+Processing line: 329224272566586
+Number 329224272566586 is present in fresh batches
+Processing line: 180189388505396
+Number 180189388505396 is NOT present in fresh batches
+Processing line: 323209267413856
+Number 323209267413856 is present in fresh batches
+Processing line: 123502471395396
+Number 123502471395396 is present in fresh batches
+Processing line: 461398544298640
+Number 461398544298640 is present in fresh batches
+Processing line: 244423449679070
+Number 244423449679070 is present in fresh batches
+Processing line: 277698011058771
+Number 277698011058771 is present in fresh batches
+Processing line: 88690168615699
+Number 88690168615699 is present in fresh batches
+Processing line: 390652411619237
+Number 390652411619237 is NOT present in fresh batches
+Processing line: 104176587592842
+Number 104176587592842 is NOT present in fresh batches
+Processing line: 405000556186165
+Number 405000556186165 is present in fresh batches
+Processing line: 279719117773247
+Number 279719117773247 is NOT present in fresh batches
+Processing line: 367888636035909
+Number 367888636035909 is present in fresh batches
+Processing line: 113218898981658
+Number 113218898981658 is present in fresh batches
+Processing line: 242503412276431
+Number 242503412276431 is present in fresh batches
+Processing line: 539368760521323
+Number 539368760521323 is present in fresh batches
+Processing line: 65531247052247
+Number 65531247052247 is present in fresh batches
+Processing line: 387225712167253
+Number 387225712167253 is present in fresh batches
+Processing line: 247064886809185
+Number 247064886809185 is present in fresh batches
+Processing line: 261630719018523
+Number 261630719018523 is present in fresh batches
+Processing line: 511383994168826
+Number 511383994168826 is NOT present in fresh batches
+Processing line: 129322857640643
+Number 129322857640643 is present in fresh batches
+Processing line: 372970263983276
+Number 372970263983276 is NOT present in fresh batches
+Processing line: 216032362284278
+Number 216032362284278 is present in fresh batches
+Processing line: 406209281428198
+Number 406209281428198 is present in fresh batches
+Processing line: 259705019394526
+Number 259705019394526 is NOT present in fresh batches
+Processing line: 7577611882262
+Number 7577611882262 is NOT present in fresh batches
+Processing line: 44253197528420
+Number 44253197528420 is present in fresh batches
+Processing line: 199588452057457
+Number 199588452057457 is NOT present in fresh batches
+Processing line: 369758333834195
+Number 369758333834195 is present in fresh batches
+Processing line: 533135827062911
+Number 533135827062911 is NOT present in fresh batches
+Processing line: 379991873366404
+Number 379991873366404 is NOT present in fresh batches
+Processing line: 478974774469592
+Number 478974774469592 is present in fresh batches
+Processing line: 56395802725478
+Number 56395802725478 is present in fresh batches
+Processing line: 36929676714092
+Number 36929676714092 is present in fresh batches
+Processing line: 139066575418643
+Number 139066575418643 is present in fresh batches
+Processing line: 113996773867336
+Number 113996773867336 is present in fresh batches
+Processing line: 395524385197291
+Number 395524385197291 is present in fresh batches
+Processing line: 59653933049606
+Number 59653933049606 is NOT present in fresh batches
+Processing line: 104653074180495
+Number 104653074180495 is NOT present in fresh batches
+Processing line: 290285289304405
+Number 290285289304405 is NOT present in fresh batches
+Processing line: 364995055413286
+Number 364995055413286 is present in fresh batches
+Processing line: 259916072493158
+Number 259916072493158 is NOT present in fresh batches
+Processing line: 458374731815287
+Number 458374731815287 is present in fresh batches
+Processing line: 159958915242527
+Number 159958915242527 is NOT present in fresh batches
+Processing line: 383684767413517
+Number 383684767413517 is NOT present in fresh batches
+Processing line: 284409586886974
+Number 284409586886974 is NOT present in fresh batches
+Processing line: 261643215941057
+Number 261643215941057 is present in fresh batches
+Processing line: 107774014090910
+Number 107774014090910 is NOT present in fresh batches
+Processing line: 428508630455380
+Number 428508630455380 is present in fresh batches
+Processing line: 100009038414146
+Number 100009038414146 is NOT present in fresh batches
+Processing line: 7768413073327
+Number 7768413073327 is NOT present in fresh batches
+Processing line: 16172394587079
+Number 16172394587079 is present in fresh batches
+Processing line: 503720707066390
+Number 503720707066390 is NOT present in fresh batches
+Processing line: 419976912525675
+Number 419976912525675 is present in fresh batches
+Processing line: 25250111294534
+Number 25250111294534 is present in fresh batches
+Processing line: 11011918622325
+Number 11011918622325 is present in fresh batches
+Processing line: 39255455665836
+Number 39255455665836 is present in fresh batches
+Processing line: 524660696656835
+Number 524660696656835 is present in fresh batches
+Processing line: 516336814681160
+Number 516336814681160 is present in fresh batches
+Processing line: 167279400242162
+Number 167279400242162 is present in fresh batches
+Processing line: 154031626180098
+Number 154031626180098 is present in fresh batches
+Processing line: 159309631879431
+Number 159309631879431 is NOT present in fresh batches
+Processing line: 437588654480216
+Number 437588654480216 is present in fresh batches
+Processing line: 342344001300246
+Number 342344001300246 is present in fresh batches
+Processing line: 57859312868982
+Number 57859312868982 is NOT present in fresh batches
+Processing line: 405633107514318
+Number 405633107514318 is present in fresh batches
+Processing line: 96394557704178
+Number 96394557704178 is present in fresh batches
+Processing line: 231686475191769
+Number 231686475191769 is NOT present in fresh batches
+Processing line: 354947260316558
+Number 354947260316558 is present in fresh batches
+Processing line: 248313772131463
+Number 248313772131463 is present in fresh batches
+Processing line: 522253654963901
+Number 522253654963901 is NOT present in fresh batches
+Processing line: 108782416198441
+Number 108782416198441 is NOT present in fresh batches
+Processing line: 196949293803544
+Number 196949293803544 is present in fresh batches
+Processing line: 117657918837275
+Number 117657918837275 is present in fresh batches
+Processing line: 96057778490207
+Number 96057778490207 is present in fresh batches
+Processing line: 42318425308547
+Number 42318425308547 is present in fresh batches
+Processing line: 404027512871770
+Number 404027512871770 is present in fresh batches
+Processing line: 64714848288117
+Number 64714848288117 is present in fresh batches
+Processing line: 57824016775628
+Number 57824016775628 is NOT present in fresh batches
+Processing line: 473470647061480
+Number 473470647061480 is NOT present in fresh batches
+Processing line: 66810550865118
+Number 66810550865118 is present in fresh batches
+Processing line: 436800420092841
+Number 436800420092841 is present in fresh batches
+Processing line: 383447980290932
+Number 383447980290932 is NOT present in fresh batches
+Processing line: 262637244050246
+Number 262637244050246 is present in fresh batches
+Processing line: 329439320842201
+Number 329439320842201 is present in fresh batches
+Processing line: 183633393715621
+Number 183633393715621 is NOT present in fresh batches
+Processing line: 366366936723133
+Number 366366936723133 is present in fresh batches
+Processing line: 282174831654383
+Number 282174831654383 is NOT present in fresh batches
+Processing line: 63718835482771
+Number 63718835482771 is present in fresh batches
+Processing line: 94659907636073
+Number 94659907636073 is present in fresh batches
+Processing line: 309483240319065
+Number 309483240319065 is present in fresh batches
+Processing line: 151403139732389
+Number 151403139732389 is NOT present in fresh batches
+Processing line: 224090003953056
+Number 224090003953056 is NOT present in fresh batches
+Processing line: 153596698098934
+Number 153596698098934 is present in fresh batches
+Processing line: 81689701132571
+Number 81689701132571 is NOT present in fresh batches
+Processing line: 295575855142821
+Number 295575855142821 is present in fresh batches
+Processing line: 123784614842719
+Number 123784614842719 is present in fresh batches
+Processing line: 65901034969048
+Number 65901034969048 is present in fresh batches
+Processing line: 425930256298798
+Number 425930256298798 is NOT present in fresh batches
+Processing line: 361740893915234
+Number 361740893915234 is NOT present in fresh batches
+Processing line: 430461506765278
+Number 430461506765278 is NOT present in fresh batches
+Processing line: 528713872138995
+Number 528713872138995 is present in fresh batches
+Processing line: 420836564242997
+Number 420836564242997 is present in fresh batches
+Processing line: 526800597994949
+Number 526800597994949 is present in fresh batches
+Processing line: 508186316885976
+Number 508186316885976 is present in fresh batches
+Processing line: 220897759651926
+Number 220897759651926 is NOT present in fresh batches
+Processing line: 176764069470134
+Number 176764069470134 is NOT present in fresh batches
+Processing line: 76725642967246
+Number 76725642967246 is present in fresh batches
+Processing line: 90419744547962
+Number 90419744547962 is NOT present in fresh batches
+Processing line: 213811773636291
+Number 213811773636291 is present in fresh batches
+Processing line: 125068903844694
+Number 125068903844694 is present in fresh batches
+Processing line: 561810588128422
+Number 561810588128422 is present in fresh batches
+Processing line: 195498441973083
+Number 195498441973083 is present in fresh batches
+Processing line: 217163101739579
+Number 217163101739579 is present in fresh batches
+Processing line: 354879066059494
+Number 354879066059494 is present in fresh batches
+Processing line: 385343209965150
+Number 385343209965150 is present in fresh batches
+Processing line: 19396391848152
+Number 19396391848152 is present in fresh batches
+Processing line: 465019865437958
+Number 465019865437958 is present in fresh batches
+Processing line: 58925771946875
+Number 58925771946875 is NOT present in fresh batches
+Processing line: 284358390416952
+Number 284358390416952 is NOT present in fresh batches
+Processing line: 497943389868531
+Number 497943389868531 is present in fresh batches
+Processing line: 463237986896015
+Number 463237986896015 is NOT present in fresh batches
+Processing line: 44302116600688
+Number 44302116600688 is present in fresh batches
+Processing line: 341680586491445
+Number 341680586491445 is NOT present in fresh batches
+Processing line: 195995630147679
+Number 195995630147679 is present in fresh batches
+Processing line: 237576907666407
+Number 237576907666407 is present in fresh batches
+Processing line: 84154602941731
+Number 84154602941731 is present in fresh batches
+Processing line: 535252643810827
+Number 535252643810827 is present in fresh batches
+Processing line: 12059269805220
+Number 12059269805220 is present in fresh batches
+Processing line: 313636709983552
+Number 313636709983552 is present in fresh batches
+Processing line: 114342400405289
+Number 114342400405289 is present in fresh batches
+Processing line: 301307143273394
+Number 301307143273394 is NOT present in fresh batches
+Processing line: 62553746923701
+Number 62553746923701 is present in fresh batches
+Processing line: 66462143351544
+Number 66462143351544 is present in fresh batches
+Processing line: 74854043279214
+Number 74854043279214 is present in fresh batches
+Processing line: 290400053782094
+Number 290400053782094 is NOT present in fresh batches
+Processing line: 226956865302453
+Number 226956865302453 is present in fresh batches
+Processing line: 259352056403275
+Number 259352056403275 is NOT present in fresh batches
+Processing line: 466558569260762
+Number 466558569260762 is present in fresh batches
+Processing line: 392925807154939
+Number 392925807154939 is NOT present in fresh batches
+Processing line: 3396939946459
+Number 3396939946459 is present in fresh batches
+Processing line: 212596405216886
+Number 212596405216886 is NOT present in fresh batches
+Processing line: 414339251512242
+Number 414339251512242 is present in fresh batches
+Processing line: 90852210601795
+Number 90852210601795 is NOT present in fresh batches
+Processing line: 363165363514251
+Number 363165363514251 is NOT present in fresh batches
+Processing line: 562343432035286
+Number 562343432035286 is NOT present in fresh batches
+Processing line: 509942718806557
+Number 509942718806557 is present in fresh batches
+Processing line: 229806479043393
+Number 229806479043393 is NOT present in fresh batches
+Processing line: 216004031925830
+Number 216004031925830 is present in fresh batches
+Processing line: 169089375408360
+Number 169089375408360 is NOT present in fresh batches
+Processing line: 326641466199358
+Number 326641466199358 is present in fresh batches
+Processing line: 324871312693111
+Number 324871312693111 is present in fresh batches
+Processing line: 549187075024210
+Number 549187075024210 is present in fresh batches
+Processing line: 365768343674388
+Number 365768343674388 is present in fresh batches
+Processing line: 25464919400196
+Number 25464919400196 is present in fresh batches
+Processing line: 123465568943017
+Number 123465568943017 is present in fresh batches
+Processing line: 290833168309456
+Number 290833168309456 is NOT present in fresh batches
+Processing line: 56699092017677
+Number 56699092017677 is present in fresh batches
+Processing line: 284280967300835
+Number 284280967300835 is NOT present in fresh batches
+Processing line: 347153984677769
+Number 347153984677769 is present in fresh batches
+Processing line: 387849302505672
+Number 387849302505672 is present in fresh batches
+Processing line: 78141836167188
+Number 78141836167188 is present in fresh batches
+Processing line: 407112398857499
+Number 407112398857499 is present in fresh batches
+Processing line: 327366296635166
+Number 327366296635166 is present in fresh batches
+Processing line: 105790012476726
+Number 105790012476726 is present in fresh batches
+Processing line: 206648203192806
+Number 206648203192806 is NOT present in fresh batches
+Processing line: 175917800183179
+Number 175917800183179 is present in fresh batches
+Processing line: 449416628335955
+Number 449416628335955 is NOT present in fresh batches
+Processing line: 274129136111059
+Number 274129136111059 is present in fresh batches
+Processing line: 309961504012732
+Number 309961504012732 is NOT present in fresh batches
+Processing line: 25473748153463
+Number 25473748153463 is present in fresh batches
+Processing line: 453220829391443
+Number 453220829391443 is present in fresh batches
+Processing line: 26145962818566
+Number 26145962818566 is present in fresh batches
+Processing line: 172512628429693
+Number 172512628429693 is NOT present in fresh batches
+Processing line: 155214949600132
+Number 155214949600132 is present in fresh batches
+Processing line: 202548829184479
+Number 202548829184479 is NOT present in fresh batches
+Processing line: 213908863402319
+Number 213908863402319 is present in fresh batches
+Processing line: 17170158126543
+Number 17170158126543 is present in fresh batches
+Processing line: 543424219076971
+Number 543424219076971 is NOT present in fresh batches
+Processing line: 440769564128316
+Number 440769564128316 is present in fresh batches
+Processing line: 366118496501699
+Number 366118496501699 is present in fresh batches
+Processing line: 506233325064438
+Number 506233325064438 is present in fresh batches
+Processing line: 390806798547574
+Number 390806798547574 is NOT present in fresh batches
+Processing line: 351956559306927
+Number 351956559306927 is NOT present in fresh batches
+Processing line: 324849880417577
+Number 324849880417577 is present in fresh batches
+Processing line: 298923298405406
+Number 298923298405406 is NOT present in fresh batches
+Processing line: 49059158904331
+Number 49059158904331 is present in fresh batches
+Processing line: 142853968546016
+Number 142853968546016 is present in fresh batches
+Processing line: 435742706804718
+Number 435742706804718 is present in fresh batches
+Processing line: 122628034227500
+Number 122628034227500 is present in fresh batches
+Processing line: 233011429454888
+Number 233011429454888 is NOT present in fresh batches
+Processing line: 333035259350640
+Number 333035259350640 is NOT present in fresh batches
+Processing line: 33097340634686
+Number 33097340634686 is NOT present in fresh batches
+Processing line: 156221286834287
+Number 156221286834287 is present in fresh batches
+Processing line: 407801313171206
+Number 407801313171206 is present in fresh batches
+Processing line: 461979715324528
+Number 461979715324528 is NOT present in fresh batches
+Processing line: 385376115403519
+Number 385376115403519 is present in fresh batches
+Processing line: 41389404513600
+Number 41389404513600 is present in fresh batches
+Processing line: 361870071995594
+Number 361870071995594 is NOT present in fresh batches
+Processing line: 436267368826008
+Number 436267368826008 is present in fresh batches
+Processing line: 367526715016017
+Number 367526715016017 is present in fresh batches
+Processing line: 36130621266728
+Number 36130621266728 is present in fresh batches
+Processing line: 299101764572519
+Number 299101764572519 is NOT present in fresh batches
+Processing line: 513722939252310
+Number 513722939252310 is NOT present in fresh batches
+Processing line: 36225999458389
+Number 36225999458389 is present in fresh batches
+Processing line: 88350072818571
+Number 88350072818571 is present in fresh batches
+Processing line: 510954431048462
+Number 510954431048462 is NOT present in fresh batches
+Processing line: 366343621188450
+Number 366343621188450 is present in fresh batches
+Processing line: 161891871139468
+Number 161891871139468 is NOT present in fresh batches
+Processing line: 190248450711039
+Number 190248450711039 is NOT present in fresh batches
+Processing line: 195984218046555
+Number 195984218046555 is present in fresh batches
+Processing line: 557072351002897
+Number 557072351002897 is present in fresh batches
+Processing line: 249979524632966
+Number 249979524632966 is present in fresh batches
+Processing line: 37655467865036
+Number 37655467865036 is present in fresh batches
+Processing line: 182382215336363
+Number 182382215336363 is NOT present in fresh batches
+Processing line: 59536036918182
+Number 59536036918182 is NOT present in fresh batches
+Processing line: 33719007497485
+Number 33719007497485 is present in fresh batches
+Processing line: 7185516935851
+Number 7185516935851 is NOT present in fresh batches
+Processing line: 384639291078138
+Number 384639291078138 is NOT present in fresh batches
+Processing line: 256300801622847
+Number 256300801622847 is present in fresh batches
+Processing line: 139289743877296
+Number 139289743877296 is present in fresh batches
+Processing line: 405301588876542
+Number 405301588876542 is present in fresh batches
+Processing line: 432192771328376
+Number 432192771328376 is NOT present in fresh batches
+Processing line: 152419503068643
+Number 152419503068643 is NOT present in fresh batches
+Processing line: 200701872100920
+Number 200701872100920 is NOT present in fresh batches
+Processing line: 329361192648782
+Number 329361192648782 is present in fresh batches
+Processing line: 404119717222310
+Number 404119717222310 is present in fresh batches
+Processing line: 441493760218459
+Number 441493760218459 is NOT present in fresh batches
+Processing line: 275834245610247
+Number 275834245610247 is present in fresh batches
+Processing line: 543974849923479
+Number 543974849923479 is NOT present in fresh batches
+Processing line: 410971074279450
+Number 410971074279450 is present in fresh batches
+Processing line: 239491965566559
+Number 239491965566559 is NOT present in fresh batches
+Processing line: 299943016996842
+Number 299943016996842 is NOT present in fresh batches
+Processing line: 309265489328114
+Number 309265489328114 is present in fresh batches
+Processing line: 368363551879111
+Number 368363551879111 is present in fresh batches
+Processing line: 104685744562738
+Number 104685744562738 is present in fresh batches
+Processing line: 143313979995203
+Number 143313979995203 is present in fresh batches
+Processing line: 266819203620158
+Number 266819203620158 is present in fresh batches
+Processing line: 208105120545532
+Number 208105120545532 is NOT present in fresh batches
+Processing line: 360134437777726
+Number 360134437777726 is present in fresh batches
+Processing line: 53270470758744
+Number 53270470758744 is present in fresh batches
+Processing line: 404700655239799
+Number 404700655239799 is present in fresh batches
+Processing line: 274516061464412
+Number 274516061464412 is present in fresh batches
+Processing line: 212283347779309
+Number 212283347779309 is NOT present in fresh batches
+Processing line: 437460977223137
+Number 437460977223137 is present in fresh batches
+Processing line: 120337022964147
+Number 120337022964147 is NOT present in fresh batches
+Processing line: 461339526557751
+Number 461339526557751 is present in fresh batches
+Processing line: 197229025104725
+Number 197229025104725 is present in fresh batches
+Processing line: 455360378637646
+Number 455360378637646 is present in fresh batches
+Processing line: 4761837056004
+Number 4761837056004 is present in fresh batches
+Processing line: 287204718220609
+Number 287204718220609 is present in fresh batches
+Processing line: 64529259045908
+Number 64529259045908 is present in fresh batches
+Processing line: 415181596010113
+Number 415181596010113 is present in fresh batches
+Processing line: 547161414683522
+Number 547161414683522 is present in fresh batches
+Processing line: 461595103347618
+Number 461595103347618 is present in fresh batches
+Processing line: 197358560165859
+Number 197358560165859 is present in fresh batches
+Processing line: 379198919224598
+Number 379198919224598 is NOT present in fresh batches
+Processing line: 521353758870252
+Number 521353758870252 is NOT present in fresh batches
+Processing line: 542085183053493
+Number 542085183053493 is NOT present in fresh batches
+Processing line: 472670927297935
+Number 472670927297935 is NOT present in fresh batches
+Processing line: 463703110147085
+Number 463703110147085 is present in fresh batches
+Processing line: 223972444502825
+Number 223972444502825 is NOT present in fresh batches
+Processing line: 30933031474804
+Number 30933031474804 is NOT present in fresh batches
+Processing line: 135225166900112
+Number 135225166900112 is NOT present in fresh batches
+Processing line: 255464969137341
+Number 255464969137341 is present in fresh batches
+Processing line: 549468551695468
+Number 549468551695468 is present in fresh batches
+Processing line: 55204563861292
+Number 55204563861292 is present in fresh batches
+Processing line: 487254271828330
+Number 487254271828330 is present in fresh batches
+Processing line: 322595029807207
+Number 322595029807207 is present in fresh batches
+Processing line: 224833103250684
+Number 224833103250684 is present in fresh batches
+Processing line: 71588997709992
+Number 71588997709992 is present in fresh batches
+Processing line: 360901090363682
+Number 360901090363682 is present in fresh batches
+Processing line: 487727415974379
+Number 487727415974379 is present in fresh batches
+Processing line: 481975605067402
+Number 481975605067402 is NOT present in fresh batches
+Processing line: 156600557375934
+Number 156600557375934 is present in fresh batches
+Processing line: 75312557642347
+Number 75312557642347 is present in fresh batches
+Processing line: 57237877620696
+Number 57237877620696 is present in fresh batches
+Processing line: 104325215838064
+Number 104325215838064 is NOT present in fresh batches
+Processing line: 380155950878586
+Number 380155950878586 is NOT present in fresh batches
+Processing line: 326516299601626
+Number 326516299601626 is present in fresh batches
+Processing line: 2408012858884
+Number 2408012858884 is NOT present in fresh batches
+Processing line: 560546201653414
+Number 560546201653414 is present in fresh batches
+Processing line: 306174774650239
+Number 306174774650239 is present in fresh batches
+Processing line: 260149668657208
+Number 260149668657208 is NOT present in fresh batches
+Processing line: 455898930137290
+Number 455898930137290 is present in fresh batches
+Processing line: 101678549004061
+Number 101678549004061 is NOT present in fresh batches
+Processing line: 20825162610750
+Number 20825162610750 is NOT present in fresh batches
+Processing line: 344964375931531
+Number 344964375931531 is present in fresh batches
+Processing line: 143636776506043
+Number 143636776506043 is present in fresh batches
+Processing line: 85038598105968
+Number 85038598105968 is present in fresh batches
+Processing line: 118867069092849
+Number 118867069092849 is present in fresh batches
+Processing line: 323266626951868
+Number 323266626951868 is present in fresh batches
+Processing line: 91618272927229
+Number 91618272927229 is NOT present in fresh batches
+Processing line: 304297497354332
+Number 304297497354332 is present in fresh batches
+Processing line: 560468219129776
+Number 560468219129776 is present in fresh batches
+Processing line: 508648447692343
+Number 508648447692343 is present in fresh batches
+Processing line: 266658254412771
+Number 266658254412771 is present in fresh batches
+Processing line: 290988607222188
+Number 290988607222188 is NOT present in fresh batches
+Processing line: 306934482206020
+Number 306934482206020 is present in fresh batches
+Processing line: 425406692521771
+Number 425406692521771 is NOT present in fresh batches
+Processing line: 101032313628667
+Number 101032313628667 is NOT present in fresh batches
+Processing line: 185947018399317
+Number 185947018399317 is present in fresh batches
+Processing line: 180224251237423
+Number 180224251237423 is NOT present in fresh batches
+Processing line: 297818834936991
+Number 297818834936991 is present in fresh batches
+Processing line: 197390286209519
+Number 197390286209519 is present in fresh batches
+Processing line: 390677957927016
+Number 390677957927016 is NOT present in fresh batches
+Processing line: 234836308682765
+Number 234836308682765 is present in fresh batches
+Processing line: 516536625266021
+Number 516536625266021 is present in fresh batches
+Processing line: 365869492023550
+Number 365869492023550 is present in fresh batches
+Processing line: 127621512552697
+Number 127621512552697 is present in fresh batches
+Processing line: 264814049644707
+Number 264814049644707 is present in fresh batches
+Processing line: 12852778957687
+Number 12852778957687 is present in fresh batches
+Processing line: 225187121280515
+Number 225187121280515 is present in fresh batches
+Processing line: 203292617394732
+Number 203292617394732 is NOT present in fresh batches
+Processing line: 6257674699039
+Number 6257674699039 is present in fresh batches
+Processing line: 272248871733914
+Number 272248871733914 is NOT present in fresh batches
+Processing line: 313378048045373
+Number 313378048045373 is present in fresh batches
+Processing line: 264299314305205
+Number 264299314305205 is present in fresh batches
+Processing line: 434530878995295
+Number 434530878995295 is present in fresh batches
+Processing line: 246809960586300
+Number 246809960586300 is present in fresh batches
+Processing line: 372205144195803
+Number 372205144195803 is NOT present in fresh batches
+Processing line: 350429931493079
+Number 350429931493079 is present in fresh batches
+Processing line: 441359074186053
+Number 441359074186053 is NOT present in fresh batches
+Processing line: 235282491428492
+Number 235282491428492 is present in fresh batches
+Processing line: 310271731284224
+Number 310271731284224 is NOT present in fresh batches
+Processing line: 147993999401925
+Number 147993999401925 is present in fresh batches
+Processing line: 65183114024502
+Number 65183114024502 is present in fresh batches
+Processing line: 511845473865811
+Number 511845473865811 is NOT present in fresh batches
+Processing line: 486540537524891
+Number 486540537524891 is present in fresh batches
+Processing line: 386863020614932
+Number 386863020614932 is present in fresh batches
+Processing line: 180142666629504
+Number 180142666629504 is NOT present in fresh batches
+Processing line: 174012856566615
+Number 174012856566615 is present in fresh batches
+Processing line: 93673013824209
+Number 93673013824209 is NOT present in fresh batches
+Processing line: 26244666636186
+Number 26244666636186 is present in fresh batches
+Processing line: 308689221592247
+Number 308689221592247 is present in fresh batches
+Processing line: 184231252459567
+Number 184231252459567 is NOT present in fresh batches
+Processing line: 482854597556260
+Number 482854597556260 is NOT present in fresh batches
+Processing line: 141358106551602
+Number 141358106551602 is NOT present in fresh batches
+Processing line: 260419770954358
+Number 260419770954358 is NOT present in fresh batches
+Processing line: 560437050849921
+Number 560437050849921 is present in fresh batches
+Processing line: 264032104688008
+Number 264032104688008 is present in fresh batches
+Processing line: 484422769080411
+Number 484422769080411 is NOT present in fresh batches
+Processing line: 422241391017846
+Number 422241391017846 is NOT present in fresh batches
+Processing line: 150696614771987
+Number 150696614771987 is NOT present in fresh batches
+Processing line: 42954324860795
+Number 42954324860795 is present in fresh batches
+Processing line: 113193174864747
+Number 113193174864747 is present in fresh batches
+Processing line: 416126018275897
+Number 416126018275897 is present in fresh batches
+Processing line: 219316270672272
+Number 219316270672272 is present in fresh batches
+Processing line: 524181010756325
+Number 524181010756325 is NOT present in fresh batches
+Processing line: 52378104843507
+Number 52378104843507 is NOT present in fresh batches
+Processing line: 282434746261597
+Number 282434746261597 is NOT present in fresh batches
+Processing line: 248989559567921
+Number 248989559567921 is present in fresh batches
+Processing line: 373197697341048
+Number 373197697341048 is present in fresh batches
+Processing line: 217485330702542
+Number 217485330702542 is present in fresh batches
+Processing line: 5860072443862
+Number 5860072443862 is present in fresh batches
+Processing line: 523664907998184
+Number 523664907998184 is NOT present in fresh batches
+Processing line: 332798883843803
+Number 332798883843803 is NOT present in fresh batches
+Processing line: 387272298394814
+Number 387272298394814 is present in fresh batches
+Processing line: 502103749161027
+Number 502103749161027 is NOT present in fresh batches
+Processing line: 433559967019029
+Number 433559967019029 is NOT present in fresh batches
+Processing line: 63869978607616
+Number 63869978607616 is present in fresh batches
+Processing line: 424794134578985
+Number 424794134578985 is NOT present in fresh batches
+Processing line: 333648264373081
+Number 333648264373081 is NOT present in fresh batches
+Processing line: 135046573298899
+Number 135046573298899 is present in fresh batches
+Processing line: 441802469854051
+Number 441802469854051 is NOT present in fresh batches
+Processing line: 150137846681258
+Number 150137846681258 is NOT present in fresh batches
+Processing line: 323012737419107
+Number 323012737419107 is present in fresh batches
+Processing line: 143689065962046
+Number 143689065962046 is present in fresh batches
+Processing line: 284343231281094
+Number 284343231281094 is NOT present in fresh batches
+Processing line: 403372310503689
+Number 403372310503689 is NOT present in fresh batches
+Processing line: 559285621389202
+Number 559285621389202 is present in fresh batches
+Processing line: 448559971836510
+Number 448559971836510 is present in fresh batches
+Processing line: 12147780811078
+Number 12147780811078 is present in fresh batches
+Processing line: 487130795863841
+Number 487130795863841 is present in fresh batches
+Processing line: 75146529077781
+Number 75146529077781 is present in fresh batches
+Processing line: 396110422076306
+Number 396110422076306 is present in fresh batches
+Processing line: 7831563222277
+Number 7831563222277 is NOT present in fresh batches
+Total unique integers covered by fresh batches: 342018167474526
