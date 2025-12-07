@@ -1,175 +1,143 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
 	"os"
+	"strconv"
 	"strings"
 )
 
 func main() {
-	f, err := os.ReadFile("input.txt")
+	f, err := os.Open("input.txt")
 	if err != nil {
 		panic(err)
 	}
+	defer f.Close()
+
+	var lines []string
+	scanner := bufio.NewScanner(f)
+	for scanner.Scan() {
+		lines = append(lines, scanner.Text())
+	}
+	if err := scanner.Err(); err != nil {
+		panic(err)
+	}
+
 	out, err := os.Create("output.txt")
 	if err != nil {
 		panic(err)
 	}
 	defer out.Close()
 
-	// Normalize the line endings and split into lines
-	content := strings.ReplaceAll(string(f), "\r\n", "\n")
-	rawLines := strings.Split(content, "\n")
-	arrayOfLists := [][]string{}
+	part2(lines, out)
+}
 
-	// Process each line
-	for _, line := range rawLines {
-		line = strings.TrimSpace(line)
-		if line == "" {
+func part2(lines []string, out *os.File) {
+	n := len(lines)
+	if n == 0 {
+		return
+	}
+
+	// Determine max line length (m)
+	m := 0
+	for _, line := range lines {
+		if len(line) > m {
+			m = len(line)
+		}
+	}
+
+	totalSum := int64(0)
+	col := 0
+
+	for col < m {
+		// Check if the current column is empty (separator)
+		isEmpty := true
+		for row := 0; row < n; row++ {
+			if col < len(lines[row]) && lines[row][col] != ' ' {
+				isEmpty = false
+				break
+			}
+		}
+
+		if isEmpty {
+			col++
 			continue
 		}
-		fmt.Fprintf(out, "Processing line: %s\n", line)
-		// Split the line into words and sort them
-		words := strings.Fields(line)
-		arrayOfLists = append(arrayOfLists, words)
-	}
-	m := len(arrayOfLists)
-	n := len(arrayOfLists[0])
-	fmt.Fprintf(out, "The array of Lists if of %d-length and %d-breadth", n, m)
-	// part_1(arrayOfLists, out)
-	part_2(arrayOfLists, out)
 
-}
-func part_1(arrayOfLists [][]string, out *os.File) {
-	// we have to compute the answers vertically, column-wise
-	m := len(arrayOfLists)
-	n := len(arrayOfLists[0])
-	answerOfLists := []int{}
-	for col := 0; col < n; col++ {
-		fmt.Fprintf(out, "\nProcessing column %d", col+1)
-		sign := arrayOfLists[m-1][col]
-		if sign == "+" {
-			sum := 0
-			for row := 0; row < m-1; row++ {
-				fmt.Fprintf(out, "\nAdding element %d: %s", row, arrayOfLists[row][col])
-				num := 0
-				_, err := fmt.Sscanf(arrayOfLists[row][col], "%d", &num)
+		// Identify the block of the problem (contiguous non-empty columns)
+		problemStart := col
+		problemEnd := col
+		for problemEnd < m {
+			colEmpty := true
+			for row := 0; row < n; row++ {
+				if problemEnd < len(lines[row]) && lines[row][problemEnd] != ' ' {
+					colEmpty = false
+					break
+				}
+			}
+			if colEmpty {
+				break
+			}
+			problemEnd++
+		}
+
+		// Find the operator in the last row of this block
+		var op byte
+		for c := problemStart; c < problemEnd; c++ {
+			if c < len(lines[n-1]) {
+				ch := lines[n-1][c]
+				if ch == '+' || ch == '*' {
+					op = ch
+					break
+				}
+			}
+		}
+
+		// Calculate result for this problem block
+		var problemResult int64
+		if op == '+' {
+			problemResult = 0
+		} else {
+			problemResult = 1
+		}
+
+		// Iterate columns right-to-left (as per C code / problem description)
+		for c := problemEnd - 1; c >= problemStart; c-- {
+			var numStrBuilder strings.Builder
+
+			// Extract digits from top to bottom (excluding the last operator row)
+			for row := 0; row < n-1; row++ {
+				if c < len(lines[row]) {
+					ch := lines[row][c]
+					if ch >= '0' && ch <= '9' {
+						numStrBuilder.WriteByte(ch)
+					}
+				}
+			}
+
+			numStr := numStrBuilder.String()
+			if len(numStr) > 0 {
+				num, err := strconv.ParseInt(numStr, 10, 64)
 				if err != nil {
 					panic(err)
 				}
-				sum += num
-			}
-			answerOfLists = append(answerOfLists, sum)
-		} else {
-			product := 1
-			for row := 0; row < m-1; row++ {
-				fmt.Fprintf(out, "\nMultiplying element %d: %s", row, arrayOfLists[row][col])
-				num := 0
-				_, err := fmt.Sscanf(arrayOfLists[row][col], "%d", &num)
-				if err != nil {
-					panic(err)
+
+				if op == '+' {
+					problemResult += num
+				} else if op == '*' {
+					problemResult *= num
 				}
-				product *= num
 			}
-			answerOfLists = append(answerOfLists, product)
 		}
+
+		fmt.Fprintf(out, "Problem at cols [%d, %d): op='%c', result=%d\n", problemStart, problemEnd, op, problemResult)
+		totalSum += problemResult
+
+		// Move to the next block
+		col = problemEnd
 	}
 
-	finalSum := 0
-	for _, ans := range answerOfLists {
-		finalSum += ans
-	}
-	fmt.Fprintf(out, "\nThe final sum of answers is: %d\n", finalSum)
-}
-func part_2(arrayOfLists [][]string, out *os.File) {
-	m := len(arrayOfLists)
-	n := len(arrayOfLists[0])
-	finalArrayOfLists := []int64{}
-	for col := 0; col < n; col++ {
-		fmt.Fprintf(out, "\nProcessing column %d in part 2", col+1)
-		sign := arrayOfLists[m-1][col]
-		numbers := []int{}
-		for row := 0; row < m-1; row++ {
-			var num int
-			_, _ = fmt.Sscanf(arrayOfLists[row][col], "%d", &num)
-			numbers = append(numbers, num)
-		}
-		// Convert numbers to strings to easily access digits by position
-		numStrs := make([]string, len(numbers))
-		maxDigits := 0
-		for i, num := range numbers {
-			s := fmt.Sprintf("%d", num)
-			numStrs[i] = s
-			if len(s) > maxDigits {
-				maxDigits = len(s)
-			}
-		}
-
-		fmt.Fprintf(out, "\nMax digits in column %d: %d", col+1, maxDigits)
-		fmt.Fprintf(out, "\nNumbers in column %d: %v", col+1, numbers)
-
-		newNumbers := []int64{}
-
-		// Construct new numbers vertically based on alignment
-		if sign == "+" {
-			// Left alignment
-			for digitIdx := 0; digitIdx < maxDigits; digitIdx++ {
-				currentVal := int64(0)
-				hasDigits := false
-				for _, s := range numStrs {
-					if digitIdx < len(s) {
-						digit := int64(s[digitIdx] - '0')
-						currentVal = currentVal*10 + digit
-						hasDigits = true
-					}
-				}
-				if hasDigits {
-					newNumbers = append(newNumbers, currentVal)
-				}
-			}
-		} else {
-			// Right alignment
-			for digitIdx := 0; digitIdx < maxDigits; digitIdx++ {
-				currentVal := int64(0)
-				hasDigits := false
-				for _, s := range numStrs {
-					charIdx := len(s) - 1 - digitIdx
-					if charIdx >= 0 {
-						digit := int64(s[charIdx] - '0')
-						currentVal = currentVal*10 + digit
-						hasDigits = true
-					}
-				}
-				if hasDigits {
-					newNumbers = append(newNumbers, currentVal)
-				}
-			}
-		}
-
-		fmt.Fprintf(out, "\n New Numbers in column %d: %v", col+1, newNumbers)
-		fmt.Printf("Column %d: %v -> ", col+1, newNumbers)
-
-		if sign == "+" {
-			sum := int64(0)
-			for _, v := range newNumbers {
-				sum += v
-			}
-			fmt.Fprintf(out, "\nSum of reversed numbers in column %d: %d", col+1, sum)
-			fmt.Printf("Sum: %d\n", sum)
-			finalArrayOfLists = append(finalArrayOfLists, sum)
-		} else {
-			product := int64(1)
-			for _, v := range newNumbers {
-				product *= v
-			}
-			fmt.Fprintf(out, "\nProduct of reversed numbers in column %d: %d", col+1, product)
-			fmt.Printf("Product: %d\n", product)
-			finalArrayOfLists = append(finalArrayOfLists, product)
-		}
-	}
-	totalSum := int64(0)
-	for _, val := range finalArrayOfLists {
-		totalSum += val
-	}
 	fmt.Fprintf(out, "\nTotal sum of all columns in part 2: %d\n", totalSum)
+	fmt.Printf("Total sum: %d\n", totalSum)
 }
