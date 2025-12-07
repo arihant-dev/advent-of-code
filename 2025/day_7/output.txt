@@ -1,0 +1,2 @@
+Part 1: Total splits = 1600
+Part 2: Total active timelines = 8632253783011
