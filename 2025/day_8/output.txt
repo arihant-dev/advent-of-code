@@ -1,0 +1,2 @@
+Part 1: Product of top 3 circuit sizes = 47040
+Part 2: Product of X coordinates of last connection = 4884971896
