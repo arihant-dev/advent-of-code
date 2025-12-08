@@ -125,7 +125,7 @@ Progress table
 | 05 | `day_5/` | - [x] | - [x] | |
 | 06 | `day_6/` | - [x] | - [x] | |
 | 07 | `day_7/` | - [x] | - [x] | Row-by-row DP simulation |
-| 08 | `day_8/` | - [ ] | - [ ] | |
+| 08 | `day_8/` | - [x] | - [x] | Union-Find clustering |
 | 09 | `day_9/` | - [ ] | - [ ] | |
 | 10 | `day_10/` | - [ ] | - [ ] | |
 | 11 | `day_11/` | - [ ] | - [ ] | |
