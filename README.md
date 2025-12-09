@@ -126,7 +126,7 @@ Progress table
 | 06 | `day_6/` | - [x] | - [x] | |
 | 07 | `day_7/` | - [x] | - [x] | Row-by-row DP simulation |
 | 08 | `day_8/` | - [x] | - [x] | Union-Find clustering |
-| 09 | `day_9/` | - [ ] | - [ ] | |
+| 09 | `day_9/` | - [x] | - [x] | Geometric Validation and Raycasting |
 | 10 | `day_10/` | - [ ] | - [ ] | |
 | 11 | `day_11/` | - [ ] | - [ ] | |
 | 12 | `day_12/` | - [ ] | - [ ] | |
