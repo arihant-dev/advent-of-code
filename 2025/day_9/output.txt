@@ -1,0 +1,2 @@
+Part 1: Max Rectangle Area: 4763932976
+Part 2: Max Valid Rectangle Area: 1501292304
