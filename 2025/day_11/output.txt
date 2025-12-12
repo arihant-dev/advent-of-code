@@ -1,0 +1,2 @@
+Number of paths from you to out: 701
+Number of paths from svr to out visiting all special nodes: 390108778818526

@@ -1,0 +1,2 @@
+Part 1: Number of shapes = 6, Number of regions = 3
+Part 2: Shapes and Regions processed.
